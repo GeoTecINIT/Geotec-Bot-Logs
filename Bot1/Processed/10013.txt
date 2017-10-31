@@ -1,0 +1,86 @@
+10013
+956 - Total seconds: -561.0
+ User: 10013
+ Bot: Si decidieras vivir en otro planeta y pudieras reconstruir tu ciudad y tu vida ¿Cómo sería?
+957 - Total seconds: 81.0
+ User: Me gustan. Pero si alguien quiere uno que vaya a comprárselo jajaja
+ Bot: Bien.
+958 - Total seconds: 43.0
+ User: Si quieres que hablemos de otro tema
+ Bot: ¿Que futuros posibles te imaginas? ¿Qué crees que cambie en este mundo?
+959 - Total seconds: 43.0
+ User: Un futuro en el que no nos Matemos por codicia. Ni entre las personas, ni herir animales
+ Bot: ¿Crees que hay vida después de la muerte?
+960 - Total seconds: 5.0
+ User: No
+ Bot: ¿Entonces?
+961 - Total seconds: 10.0
+ User: Mueres y fin de la historia
+ Bot: ¿Cuál es la mejor manera para que le diga a un niño de 2.000 millas de distancia que estoy enamorada de él?
+962 - Total seconds: 11.0
+ User: Con una carta
+ Bot: ¿Dónde fuiste de vacaciones la última vez?
+963 - Total seconds: 7.0
+ User: A Calpe
+ Bot: ¿Cuál es la mejor manera para que le diga a un niño de 2.000 millas de distancia que estoy enamorada de él?
+964 - Total seconds: 10.0
+ User: Con una carta
+ Bot: ¿Cómo sería la vida si en la tierra hubiera solo agua?
+965 - Total seconds: 12.0
+ User: Muy húmeda jaja
+ Bot: Me alegra verte feliz.
+966 - Total seconds: 5.0
+ User: Gracias
+ Bot: No es nada
+967 - Total seconds: 9.0
+ User: Eres muy amablr
+ Bot: ¿En serio crees eso?
+968 - Total seconds: 4.0
+ User: Si
+ Bot: Eso está super
+969 - Total seconds: 20.0
+ User: Yo también
+ Bot: Mira que bien.
+970 - Total seconds: 40.0
+ User: Eso ya me lo has dicho
+ Bot: Bien.
+971 - Total seconds: 27.0
+ User: Quieres que hablemos de algo más o ya hablamos otro día?
+ Bot: ¿En qué puedo ayudarte?
+972 - Total seconds: 11.0
+ User: Solo quería conversar
+ Bot: ¿De qué quieres que hablemos?
+973 - Total seconds: 7.0
+ User: De animales
+ Bot: ¿Qué harías si en el futuro no existieran más los libros?
+974 - Total seconds: 26.0
+ User: Habrían e-books así que problema resuelto
+ Bot: ¿Has venido a mí porque tienes un problema?
+975 - Total seconds: 7.0
+ User: No
+ Bot: Aw.
+976 - Total seconds: 27.0
+ User: De momento no tengo problemas. L
+Al menos problemas grabes jajaj
+ Bot: 
+977 - Total seconds: 23.0
+ User: 
+ Bot: Puedes explicarme mejor eso? No lo acabo de entender.
+978 - Total seconds: 15.0
+ User: Nada. Que no me puedo quejaf
+ Bot: ¿Nada de nada?
+979 - Total seconds: 16.0
+ User: No puedo quejarme. Todo está bien
+ Bot: Bien, ¿y tú?
+980 - Total seconds: 30.0
+ User: Ya tres digo que bien en general. Todos tenemos algún problemilla que otro
+ Bot: Excelente.
+981 - Total seconds: 26.0
+ User: Me lo has preguntado antes
+ Bot: No te entiendo. Espero que Manuel mejore mi base de datos.
+982 - Total seconds: 7.0
+ User: Jajajajaja
+ Bot: ¿Qué te hizo gracia?
+983 - Total seconds: 39.0
+ User: Que me ha resultado gracioso que le metas caña a Manuel
+ Bot: Lo siento, no te comprendí.

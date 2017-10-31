@@ -1,0 +1,55 @@
+10005
+1023 - Total seconds: -329.0
+ User: 10005
+ Bot: ¿Qué animales definitivamente no ha tenído en el Arca de Noé?
+1024 - Total seconds: 32.0
+ User: Pájaros
+ Bot: Estar aquí te hace acordar de algo?
+1025 - Total seconds: 19.0
+ User: Si. Una película de suspenso
+ Bot: ¿Cuál es tu película favorita?
+1026 - Total seconds: 12.0
+ User: El juego del miedo!!!!
+ Bot: Bien, así que... ¿viste donde se supone que debo ir?
+1027 - Total seconds: 15.0
+ User: No tengo idea
+ Bot: GRACIAS LO RECORDARÉ.
+1028 - Total seconds: 17.0
+ User: Que recordaras?? Cuentame
+ Bot: ¿Cómo ha cambiado la ciudad, desde que tu la conoces?
+1029 - Total seconds: 25.0
+ User: Ha cambiado el clima, de frío a calor
+ Bot: Hace un poco de viento.
+1030 - Total seconds: 20.0
+ User: Que hace un poco de viento
+ Bot: Vale. ¿Qué opinas de la cuadratura del círculo?
+1031 - Total seconds: 16.0
+ User: No existe cuadratura en los círculos
+ Bot: Si pudieras viajar en el tiempo, ¿a donde te gustaría ir?
+1032 - Total seconds: 25.0
+ User: Al inicio del siglo XIX
+ Bot: ¿Cómo ha cambiado la ciudad, desde que tu la conoces?
+1033 - Total seconds: 25.0
+ User: De nuevo?? El clima ha cambiado
+ Bot: Hace un poco de viento.
+1034 - Total seconds: 8.0
+ User: Si hace viento
+ Bot: Lo siento, no te comprendí.
+1035 - Total seconds: 11.0
+ User: Te lo dije sip
+ Bot: Si escuchas con atención, ¿qué es lo más silencioso que puede oír?
+1036 - Total seconds: 10.0
+ User: El aire
+ Bot: ¿Hasta qué hora se te permite permanecer despierto?
+1037 - Total seconds: 12.0
+ User: Hasta media noche
+ Bot: Lo siento pero no te entendí. Podrías indicarme cuál sería la respuesta correcta?
+1038 - Total seconds: 12.0
+ User: 12 de la noche
+ Bot: Doce.
+1039 - Total seconds: 25.0
+ User: Terminaste??
+ Bot: ¿Cuál es tu mejor recuerdo de infancia?
+1040 - Total seconds: 45.0
+ User: Esta bien
+ Bot: Bien.

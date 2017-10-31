@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+                               <!-- Valenciano -->
+  
+  
+<category>
+<pattern>UJI</pattern>
+<template>La UJI es la Universitat Jaume I, donde estamos ahora, no lo sabias?</template>
+</category>
+
+<category>
+<pattern>Geotec</pattern>
+<template>GeoTec es un grupo de investigación sobre Geotecnología. Y es donde me han creado!</template>
+</category>
+
+
+</aiml>

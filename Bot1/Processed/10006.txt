@@ -1,0 +1,28 @@
+10006
+1014 - Total seconds: -343.0
+ User: 10006
+ Bot: ¿Cúal es tu actor favorito?
+1015 - Total seconds: 67.0
+ User: Hola. Hay varios me gusta Leonado Dc, Keano.
+ Bot: Así que te gusta LEONADO DC KEANO.
+1016 - Total seconds: 20.0
+ User: Si y matt
+ Bot: ¿Cómo le llamab a esta parte de la ciudad?
+1017 - Total seconds: 26.0
+ User: Cual?
+ Bot: Vale.
+1018 - Total seconds: 86.0
+ User: ?
+ Bot: ¿Qué harías si en el futuro no existieran más los libros?
+1019 - Total seconds: 65.0
+ User: Debería haber donde consultarlo y si no buscaría como conservar la informacion de ellos
+ Bot: Si decidieras vivir en otro planeta y pudieras reconstruir tu ciudad y tu vida ¿Cómo sería?
+1020 - Total seconds: 54.0
+ User: Siguiendo reglas claras
+ Bot: En este momento, estoy en el camino?
+1021 - Total seconds: 16.0
+ User: No
+ Bot: Vale, si tú lo dices.
+1022 - Total seconds: 9.0
+ User: Ok
+ Bot: Vale.

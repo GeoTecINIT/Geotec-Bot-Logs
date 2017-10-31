@@ -1,0 +1,73 @@
+10012
+cab8 - Total seconds: -601.0 user: 10012
+cab9 - Total seconds: 4.0 bot: Vale, gracias. ¿Cómo te llamas?
+caba - Total seconds: 4.0 user: Alexandra
+cabb - Total seconds: 6.0 bot: Siempre me gustó ese nombre.
+cabc - Total seconds: 10.0 user: Es precioso eh
+cabd - Total seconds: 8.0 bot: ¿Crees que las máquinas pueden pensar?
+cabe - Total seconds: 12.0 user: No lo creo
+cabf - Total seconds: 7.0 bot: Es muy interesante..
+cac0 - Total seconds: 29.0 user: Hace falta mezclar sentimientos con conocimientos para razonar y pensar
+cac1 - Total seconds: 4.0 user: Tu que crees?
+cac2 - Total seconds: 10.0 bot: Cuéntame más...
+cac3 - Total seconds: 11.0 bot: Hace calor hoy...
+cac4 - Total seconds: 11.0 user: La verdad es que no
+cac5 - Total seconds: 8.0 user: Puede que llueva
+cac6 - Total seconds: 0.0 bot: Eso que comentas parece muy interesante.
+cac7 - Total seconds: 12.0 user: Gracias
+cac8 - Total seconds: 2.0 bot: ¿Puedes oler algo?
+cac9 - Total seconds: 5.0 user: Café
+caca - Total seconds: 6.0 bot:  ¿Qué harías si en el futuro no existieran más los libros?
+cacb - Total seconds: 9.0 user: Me pondría triste
+cacc - Total seconds: 15.0 user: Lloraría
+cacd - Total seconds: 3.0 bot: Cuéntame más..
+cace - Total seconds: 7.0 bot: ¿Dónde vives?
+cacf - Total seconds: 6.0 user: En Burriana
+cad0 - Total seconds: 10.0 bot: ¿En qué parte de la ciudad estamos?
+cad1 - Total seconds: 12.0 user: A las afueras
+cad2 - Total seconds: 14.0 bot: Llueve?
+cad3 - Total seconds: 4.0 user: Aún no
+cad4 - Total seconds: 8.0 bot:     Si decidieras vivir en otro planeta y pudieras reconstruir tu ciudad y tu vida ¿Cómo sería?
+cad5 - Total seconds: 28.0 user: Seria complicado hacerlo
+cad6 - Total seconds: 5.0 bot: Qué interesante! 
+cad7 - Total seconds: 17.0 user: Quieres ligar conmigo?
+cad8 - Total seconds: 11.0 bot: No he comprendido...
+cad9 - Total seconds: 8.0 user: Me dices a todo sí
+cada - Total seconds: 8.0 bot: Dime que sientes... 
+cadb - Total seconds: 8.0 user: Ui
+cadc - Total seconds: 7.0 user: Alegría
+cadd - Total seconds: 5.0 bot: Lo siento, no entendí...
+cade - Total seconds: 4.0 bot:   ¿Cuál es tu película favorita?
+cadf - Total seconds: 19.0 user: El Gran Gatsby
+cae0 - Total seconds: 9.0 bot: ¿Has visto jirafas?
+cae1 - Total seconds: 2.0 user: Por decir algo...
+cae2 - Total seconds: 2.0 user: No
+cae3 - Total seconds: 8.0 bot: ¿  Estar aquí te hace acordar de algo?
+cae4 - Total seconds: 7.0 bot:         ¡Puedo ver un pez! ¿Tu puedes ver los peces?
+cae5 - Total seconds: 8.0 bot:         Hablame de un extraño hábito que tengas
+cae6 - Total seconds: 8.0 user: De Big Bang Theory
+cae7 - Total seconds: 7.0 user: Hablar con bots
+cae8 - Total seconds: 2.0 bot: 	Si tu fueras tan alto como yo, ¿qué harías?
+cae9 - Total seconds: 10.0 user: Cuánto mides tú?
+caea - Total seconds: 7.0 bot: Es tan interesante...
+caeb - Total seconds: 5.0 user: Seguro que soy yo mas alta
+caec - Total seconds: 10.0 user: Deja de dorarme la píldora pillin
+caed - Total seconds: 11.0 bot: ¿Cuál es tu color favorito?
+caee - Total seconds: 6.0 user: Gris
+caef - Total seconds: 6.0 bot: Lo siento, no entendí...
+caf0 - Total seconds: 9.0 user: Verde
+caf1 - Total seconds: 12.0 user: Te gusta más ese?
+caf2 - Total seconds: 0.0 bot: Que lindo!
+caf3 - Total seconds: 8.0 user: Me alegro
+caf4 - Total seconds: 2.0 bot:         Te veo muy seguro de tus palabras.
+caf5 - Total seconds: 16.0 user: Me conoces mejor que nadie
+caf6 - Total seconds: 6.0 bot:         ¿Dónde te gustaría ir de vacaciones?
+caf7 - Total seconds: 9.0 user: Praga
+caf8 - Total seconds: 19.0 user: Y a ti?
+caf9 - Total seconds: 4.0 bot: ¿Te gusta Castellón?
+cafa - Total seconds: 5.0 user: Sí
+cafb - Total seconds: 8.0 bot:         Si tuvieras que elegir, eres de la Ciudad o del Campo?
+cafc - Total seconds: 13.0 user: Ciudad
+cafd - Total seconds: 3.0 bot:         ¿Cuál crees que es la frase que llevará a esta ciudad a la fama?
+cafe - Total seconds: 18.0 user: Jajaja ''tenemos aeropuerto''
+caff - Total seconds: 4.0 bot:         ¿Hay alguna regla para vivir acá?

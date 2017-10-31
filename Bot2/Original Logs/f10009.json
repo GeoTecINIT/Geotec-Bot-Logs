@@ -1,0 +1,351 @@
+[{
+    "_id" : "5786330e1ee8983f0c11c039",
+    "message" : "10007",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:24:46.931+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633101ee8983f0c11c03a",
+    "from" : "bot",
+    "message" : "Vale, gracias. ¿Cómo te llamas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:24:48.706+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633181ee8983f0c11c03b",
+    "message" : "David y tu?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:24:56.035+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786331c1ee8983f0c11c03c",
+    "from" : "bot",
+    "message" : "Sara.",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:25:00.166+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633251ee8983f0c11c03d",
+    "message" : "Encantado Sara",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:25:09.456+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786332b1ee8983f0c11c03e",
+    "from" : "bot",
+    "message" : "        ¿Cuál es tu deporte favorito?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:25:15.203+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786333d1ee8983f0c11c03f",
+    "message" : "Fútbol es el deporte rey en españa",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:25:33.358+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633411ee8983f0c11c040",
+    "message" : "Te gusta?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:25:37.653+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633481ee8983f0c11c041",
+    "from" : "bot",
+    "message" : "Qué interesante! ",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:25:44.645+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786334f1ee8983f0c11c042",
+    "from" : "bot",
+    "message" : "Cuéntame más...   ",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:25:51.422+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633641ee8983f0c11c043",
+    "message" : "Sobre fútbol o sobre otra cosa diferente?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:26:12.149+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786336a1ee8983f0c11c044",
+    "from" : "bot",
+    "message" : "        Qué harías si te encuentras en una nave espacial y su computadora no te deja regresar a salvo?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:26:18.562+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633a31ee8983f0c11c045",
+    "message" : "Pues pensar la forma de como arreglarla o intentar comunicarme con otras personas para regresar sano y salvo",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:27:15.882+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633ac1ee8983f0c11c046",
+    "from" : "bot",
+    "message" : "        Eso que comentas parece muy interesante.",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:27:24.751+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633bc1ee8983f0c11c047",
+    "message" : "No me voy a quedar parado no?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:27:40.485+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633c91ee8983f0c11c048",
+    "from" : "bot",
+    "message" : "¿Crees que soy alto?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:27:53.906+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633d71ee8983f0c11c049",
+    "message" : "Alto? No eras chica?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:28:07.758+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633dd1ee8983f0c11c04a",
+    "message" : "Sería alta no??",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:28:13.067+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633ea1ee8983f0c11c04b",
+    "from" : "bot",
+    "message" : "¿Has visto jirafas por aquí?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:28:26.437+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633f01ee8983f0c11c04c",
+    "message" : "Noooo",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:28:32.115+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578633f51ee8983f0c11c04d",
+    "from" : "bot",
+    "message" : "        ¿Te gusta jugar a los videojuegos? ¿Cómo sería jugar tu propia vida?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:28:37.009+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634261ee8983f0c11c04e",
+    "message" : "Me gustan los videojuegos aunqueno me gustaría jugar mi vida en ellos los videojuegos están para jugar pero sin arriesgar",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:29:26.019+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786342d1ee8983f0c11c04f",
+    "from" : "bot",
+    "message" : "        Te veo muy seguro de tus palabras.",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:29:33.728+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634401ee8983f0c11c050",
+    "message" : "Siempre hay que estar seguro de uno mismo",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:29:52.798+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786344a1ee8983f0c11c051",
+    "from" : "bot",
+    "message" : "        ¿Dónde te gustaría ir de vacaciones?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:30:02.376+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786345d1ee8983f0c11c052",
+    "message" : "Vacaciones para disfrutar relax o para ver cosas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:30:21.681+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786346e1ee8983f0c11c053",
+    "from" : "bot",
+    "message" : "China es grande y con mucha gente...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:30:38.779+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634811ee8983f0c11c054",
+    "message" : "Pero prefiero otro lugar como el caribe! Jaja",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:30:57.896+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634901ee8983f0c11c055",
+    "from" : "bot",
+    "message" : "¿Conoces los peces del Caribe?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:31:12.573+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786349d1ee8983f0c11c056",
+    "message" : "Por fotos y vídeos algunos he visto",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:31:25.241+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634a31ee8983f0c11c057",
+    "message" : "Pero no se sus nombres",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:31:31.481+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634af1ee8983f0c11c058",
+    "from" : "bot",
+    "message" : "Son lindos....",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:31:43.528+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634b81ee8983f0c11c059",
+    "from" : "bot",
+    "message" : "        ¿Cuál es tu comida favorita?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:31:52.450+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634b81ee8983f0c11c05a",
+    "message" : "Muy coloridos",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:31:52.591+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634c31ee8983f0c11c05b",
+    "from" : "bot",
+    "message" : "        ¿Cuál es su lugar favorito para escuchar música?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:32:03.024+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634c41ee8983f0c11c05c",
+    "message" : "La pasta",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:32:04.950+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634ca1ee8983f0c11c05d",
+    "message" : "La playa",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:32:10.373+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634d01ee8983f0c11c05e",
+    "from" : "bot",
+    "message" : "¿Esta lloviendo?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:32:16.441+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634d61ee8983f0c11c05f",
+    "message" : "Creo que no",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:32:22.430+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634e21ee8983f0c11c060",
+    "from" : "bot",
+    "message" : "Hoy tengo frío. ¿Hace frío?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:32:34.299+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634ee1ee8983f0c11c061",
+    "message" : "Estoy dentro del edificio no lo se",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:32:46.744+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634f51ee8983f0c11c062",
+    "message" : "Pero esta mañana no",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:32:53.347+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578634f91ee8983f0c11c063",
+    "from" : "bot",
+    "message" : "¿En qué parte de la ciudad estamos?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:32:57.261+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578635021ee8983f0c11c064",
+    "message" : "En la norte",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:33:06.721+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786350f1ee8983f0c11c065",
+    "from" : "bot",
+    "message" : "        Estoy intentando aprender algo de valenciano, ¿puedes decirme alguna frase para decir?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:33:19.665+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578635341ee8983f0c11c066",
+    "message" : "Clar jo soc el mitjor bot del mon",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:33:56.157+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578635391ee8983f0c11c067",
+    "from" : "bot",
+    "message" : "Que interesante!",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T12:34:01.391+0000",
+    "__v" : 0
+}]

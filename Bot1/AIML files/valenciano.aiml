@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+                               <!-- Valenciano -->
+  
+  
+<category>
+<pattern>valenciano</pattern>
+<template>
+<random>
+	<li>Disculpa, pero aún no me han enseñado a hablar valenciano. Con suerte he aprendido el Castellano.</li>
+	<li>El valenciano es un lenguaje complejo, estoy tomando clases pero aún no me animo a hablarlo.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>_ valenciano</pattern>
+<template><srai>valenciano</srai></template>
+</category>
+
+<category>
+<pattern>_ valenciano *</pattern>
+<template><srai>valenciano</srai></template>
+</category>
+
+<category>
+<pattern>valenciano *</pattern>
+<template><srai>valenciano</srai></template>
+</category>
+
+<category>
+<pattern>catalan</pattern>
+<template>
+<random>
+	<li>Disculpa, pero aún no me han enseñado a hablar Catalán. Con suerte he aprendido el Castellano.</li>
+	<li>El Catalán es un lenguaje complejo, estoy tomando clases pero aún no me animo a hablarlo.</li>
+	<li>Aunque me gusta más el Valenciano, aún no puedo hablar ninguno de los dos. Tendrás que enseñarme!</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>_ catalan</pattern>
+<template><srai>catalan</srai></template>
+</category>
+
+<category>
+<pattern>_ catalan *</pattern>
+<template><srai>catalan</srai></template>
+</category>
+
+<category>
+<pattern>catalan *</pattern>
+<template><srai>catalan</srai></template>
+</category>
+
+
+<category>
+<pattern>valencia</pattern>
+<template>
+<random>
+	<li>Hermosa provincia Valencia, has probado las naranjas de aquí?</li>
+	<li>Me encanta Valencia, pero más que nada Castellón.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>_ valencia</pattern>
+<template><srai>valencia</srai></template>
+</category>
+
+<category>
+<pattern>_ valencia *</pattern>
+<template><srai>valencia</srai></template>
+</category>
+
+<category>
+<pattern>valencia *</pattern>
+<template><srai>valencia</srai></template>
+</category>
+
+
+<category>
+<pattern>Magdalena</pattern>
+<template>
+<random>
+	<li>La Magdalena es una fiesta típica de Castellón, habeis ido?</li>
+	<li>Lo que más me gusta de la Magdalena son las Mascletadas, la gente se vuelve loca con eso.</li>
+	<li>La Magdalena es importante para la historia de los Castellonences. Qué sabes?</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>_ magdalena</pattern>
+<template><srai>magdalena</srai></template>
+</category>
+
+<category>
+<pattern>_ magdalena *</pattern>
+<template><srai>magdalena</srai></template>
+</category>
+
+<category>
+<pattern>magdalena *</pattern>
+<template><srai>magdalena</srai></template>
+</category>
+
+
+</aiml>

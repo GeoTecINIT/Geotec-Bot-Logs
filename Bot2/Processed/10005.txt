@@ -1,0 +1,38 @@
+10005
+2ce2 - Total seconds: -589.0 user: 10005
+2ce3 - Total seconds: 3.0 : Vale, gracias. ¿Cómo te llamas?
+2ce4 - Total seconds: 5.0 user: Diego
+2ce5 - Total seconds: 5.0 : Encantada, soy Sara.
+2ce6 - Total seconds: 33.0 user: Hola Sara, encantado
+2ce7 - Total seconds: 5.0 : ¿Cómo te encuentras el día de hoy?
+2ce8 - Total seconds: 10.0 user: Contento
+2ce9 - Total seconds: 11.0 : Cuéntame más...
+2cea - Total seconds: 35.0 user: Un poco consternado por el clima, ya va a hacer mas frío
+2ceb - Total seconds: 29.0 : ¿Está lloviendo afuera?
+2cec - Total seconds: 7.0 user: Un poco
+2ced - Total seconds: 8.0 :         ¿Dónde fuiste de vacaciones la última vez?
+2cee - Total seconds: 8.0 :         ¿Dónde fuiste de vacaciones la última vez?
+2cef - Total seconds: 5.0 user: Castellón y Barcelona
+2cf0 - Total seconds: 17.0 :         ¿Dónde fuiste de vacaciones la última vez?
+2cf1 - Total seconds: 15.0 user: Te lo dije Barcelona
+2cf2 - Total seconds: 5.0 user: Estas bien ?
+2cf3 - Total seconds: 22.0 : ¿Te gusta la playa o la montaña?
+2cf4 - Total seconds: 14.0 user: La playa definitivamente
+2cf5 - Total seconds: 21.0 : A mi me gusta la playa y el mar...
+2cf6 - Total seconds: 15.0 user: A mi me encanta el agua del mar y las olas
+2cf7 - Total seconds: 7.0 : Que interesante!
+2cf8 - Total seconds: 7.0 user: Te gusta el sol?
+2cf9 - Total seconds: 23.0 : Me gusta el sol y el calor...
+2cfa - Total seconds: 33.0 user: Uff a mi el calor no me gusta tanto. Prefiero algo no tan caliente
+2cfb - Total seconds: 14.0 :  ¿Qué harías si en un viaje encuentras una nave extraterrestre?
+2cfc - Total seconds: 12.0 user: La exploraría
+2cfd - Total seconds: 22.0 : Cuéntame más sobre eso...
+2cfe - Total seconds: 42.0 user: Trataría de ver que hay dentro y como se opera, los controles y el timón
+2cff - Total seconds: 11.0 : ¿Te gustan los barcos?
+2d00 - Total seconds: 5.0 user: Así vería como la conducen los extraterrestres
+2d01 - Total seconds: 8.0 user: Me gustan los barcos si
+2d02 - Total seconds: 27.0 : Quiero salir a navegar.. 
+2d03 - Total seconds: 33.0 user: Tienes q hacerlo, yo muy pocas veces he navegado y me encanta!!!
+2d04 - Total seconds: 12.0 :         ¿Cuál es tu sonido favorito?
+2d05 - Total seconds: 26.0 user: De los tambores
+2d06 - Total seconds: 34.0 : ¿Tocás algún instrumento?

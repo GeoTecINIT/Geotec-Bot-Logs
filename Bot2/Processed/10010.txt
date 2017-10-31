@@ -1,0 +1,37 @@
+10010
+5181 - Total seconds: -553.0 user: 10010
+5182 - Total seconds: 2.0 bot: Vale, gracias. ¿Cómo te llamas?
+5183 - Total seconds: 11.0 user: Aida
+5184 - Total seconds: 4.0 bot: Siempre me gustó ese nombre.
+5185 - Total seconds: 2.0 user: Y tu?
+5186 - Total seconds: 4.0 bot: Sara.
+5187 - Total seconds: 7.0 user: Hola sara
+5188 - Total seconds: 8.0 bot: Hola!
+5189 - Total seconds: 24.0 user: Que tal el día?
+518a - Total seconds: 14.0 bot: Bien. Y el tuyo?
+518b - Total seconds: 10.0 user: A mi también me gusta tu nombre.
+518c - Total seconds: 10.0 bot: ¿Eres de por aqui?
+518d - Total seconds: 20.0 user: Si, soy de l'alcora
+518e - Total seconds: 12.0 bot: Cuéntame más...
+518f - Total seconds: 14.0 user: Pero vivo en castellón
+5190 - Total seconds: 8.0 bot:         ¿Cuál es tu mejor recuerdo de infancia?
+5191 - Total seconds: 34.0 user: Cuando adopté a mi perrito.
+5192 - Total seconds: 9.0 bot: Que lindo! 
+5193 - Total seconds: 40.0 user: Si, era una mezcla de pastor alemán y husky siberiano
+5194 - Total seconds: 21.0 bot: ¿Conoces Alemania?
+5195 - Total seconds: 19.0 user: Si, estudié en münster
+5196 - Total seconds: 11.0 bot: Dicen que su cerveza es buena...
+5197 - Total seconds: 30.0 user: No lo se, no me gusta la cerveza
+5198 - Total seconds: 12.0 bot: ¿Te gusta volar?
+5199 - Total seconds: 22.0 user: Si, me gusta volar para viajar
+519a - Total seconds: 14.0 bot: ¿Dónde fuiste de vacaciones por última vez?
+519b - Total seconds: 18.0 user: Fui a egipto
+519c - Total seconds: 14.0 bot: Que interesante! 
+519d - Total seconds: 16.0 user: Si, mucho
+519e - Total seconds: 21.0 bot: Yo nunca he viajado. ¿Dónde me recomiendas ir?
+519f - Total seconds: 15.0 user: Ven a españa
+51a0 - Total seconds: 28.0 bot: Vivo en la Universidad Jaume I
+51a1 - Total seconds: 15.0 user: Ah si? Interesante
+51a2 - Total seconds: 16.0 bot: ¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?
+51a3 - Total seconds: 33.0 user: Hablo 4 lenguas, sería muy aburrido
+51a4 - Total seconds: 15.0 bot: ¿Qué haces para divertirte?

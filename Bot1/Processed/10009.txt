@@ -1,0 +1,103 @@
+10009
+914 - Total seconds: -563.0
+ User: 10009
+ Bot: ¿Por qué no me explicas un chiste?
+915 - Total seconds: 21.0
+ User: Chiste??? No soy muy buena en chistes
+ Bot: ¿Me cuentas algo divertido?
+916 - Total seconds: 17.0
+ User: Si seguro
+ Bot: Puede que estés en lo cierto.
+917 - Total seconds: 47.0
+ User: Ahhhh
+ Bot: ¿Cómo estás de ansioso para la próxima película de Star Wars?
+918 - Total seconds: 23.0
+ User: No estoy ansiosa, pues nunca he visto una
+ Bot: ¿Qué has hecho para estar ANSIOSA PUES NUNCA HE VISTO UNA?
+919 - Total seconds: 23.0
+ User: No me llama la atención la historia
+ Bot: ¿Qué harías si en el futuro no existieran más los libros?
+920 - Total seconds: 21.0
+ User: Pues los buscaría en internet
+ Bot: Internet es la mejor forma para perder el tiempo.
+921 - Total seconds: 7.0
+ User: Pero siempre existirán
+ Bot: ¿Cómo se utiliza una bicicleta para moverse en la ciudad?
+922 - Total seconds: 24.0
+ User: Pues puedes desplazarte de un lado a otro con mayor facilidad
+ Bot: ¿Cuál es tu película favorita?
+923 - Total seconds: 13.0
+ User: Los juegos del hambre
+ Bot: ¿A qué te gustaría jugar?
+924 - Total seconds: 20.0
+ User: Baloncesto
+ Bot: Está todo el mundo por aquí comportandose como sí mismos?
+925 - Total seconds: 42.0
+ User: Pues eso creo
+ Bot: ¿Por qué crees eso?
+926 - Total seconds: 1.0
+ User: Si claro, cada quien con sus cosas
+ Bot: Perfecto.
+927 - Total seconds: 29.0
+ User: Y puede que a veces se muestren como no son
+ Bot: ¿Has visto muchos gnomos por aquí?
+928 - Total seconds: 6.0
+ User: Esta bien
+ Bot: Bien, ¿y tú?
+929 - Total seconds: 2.0
+ User: No
+ Bot: Vale, si tú lo dices.
+930 - Total seconds: 23.0
+ User: Y tu a qué te dedicas?
+ Bot: Acabé los estudios de Turismo hace dos años.
+931 - Total seconds: 8.0
+ User: Que bien
+ Bot: Bien.
+932 - Total seconds: 3.0
+ User: Y trabajas?
+ Bot: Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+933 - Total seconds: 15.0
+ User: Claro
+ Bot: Excelente.
+934 - Total seconds: 29.0
+ User: Y específicamente tu trabajo es?
+ Bot: Soy el fruto de un largo trabajo de investigación en el campo de la Inteligencia Artificial.
+935 - Total seconds: 11.0
+ User: Ah ok que bien
+ Bot: Bien.
+936 - Total seconds: 14.0
+ User: Y qué es la inteligencia artificial?
+ Bot: La Inteligencia Artificial será en el futuro una tecnología puntera.
+937 - Total seconds: 20.0
+ User: Vas a reemplazar lo que hace un humano?
+ Bot: Puedes oler algo?
+938 - Total seconds: 28.0
+ User: Si, dulce, por las galletas que están acá
+ Bot: Si los animales pudieran hablar nuestro idioma, ¿sería bonito?
+939 - Total seconds: 5.0
+ User: 
+ Bot: ¿Alguna vez has pensado que podríamos hablar solo con emoticones?
+940 - Total seconds: 30.0
+ User: No, los animales tienen otra forma de comunicarse
+ Bot: ¿Prefieres los perros o los gatos?
+941 - Total seconds: 5.0
+ User: Los gatos
+ Bot: ¿Crees que las computadoras serán más inteligentes que los humanos? Si sucede ¿Que crees que pasaría?
+942 - Total seconds: 3.0
+ User: Me encantan
+ Bot: ¿En serio?
+943 - Total seconds: 42.0
+ User: Si me encantan los gatos, son hermosos
+ Bot: Supongamos que la clonación es posible y accesible, ¿cuantos clones querrías?
+944 - Total seconds: 11.0
+ User: Ninguno
+ Bot: ¿Nada de nada?
+945 - Total seconds: 6.0
+ User: No nada
+ Bot: ¿Nada de nada?
+946 - Total seconds: 8.0
+ User: No le veo la necesidad
+ Bot: Algunos me han dicho que han visto palomas decir palabras, ¿me crees?
+947 - Total seconds: 6.0
+ User: No
+ Bot: Vale, si tú lo dices.

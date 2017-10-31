@@ -1,0 +1,25 @@
+10007
+948 - Total seconds: -166.0
+ User: 10007
+ Bot: He estado aquí por 25 años. ¿Cuánto tiempo has estado en la ciudad?
+949 - Total seconds: 32.0
+ User: Poco tiempo
+ Bot: Lluvioso.
+950 - Total seconds: 6.0
+ User: Vine esta mañana
+ Bot: ¿Qué es lo que realmente te sorprende?
+951 - Total seconds: 18.0
+ User: Si hoy hay nubes
+ Bot: ¿Por que la gallina cruzo la calle?
+952 - Total seconds: 34.0
+ User: No entiendo
+ Bot: Hay cosas que requieren su tiempo, mi pequeño saltamontes.
+953 - Total seconds: 17.0
+ User: Buena frase
+ Bot: ¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?
+954 - Total seconds: 37.0
+ User: No lo piensas tu?
+ Bot: Vaya, espero que Manuel me dote de la capacidad para opinar.
+955 - Total seconds: 22.0
+ User: Vale adiós
+ Bot: Vale.

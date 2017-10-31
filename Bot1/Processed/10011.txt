@@ -1,0 +1,55 @@
+10011
+800 - Total seconds: -295.0
+ User: 10011
+ Bot: ¿Qué harías si en el futuro no existieran más los libros?
+801 - Total seconds: 30.0
+ User: Estaria triste
+ Bot: ¿Cómo sería la vida si pudieras hablar con todos los objetos como lo haces conmigo?
+802 - Total seconds: 12.0
+ User: Cuales objetos
+ Bot: ¿Cómo sería la vida si pudieras hablar con todos los objetos como lo haces conmigo?
+803 - Total seconds: 27.0
+ User: Cuales objetos?
+ Bot: ¿Por qué no me explicas un chiste?
+804 - Total seconds: 20.0
+ User: No recuerdo un chiste ahora
+ Bot: ¿Me cuentas algo divertido?
+805 - Total seconds: 21.0
+ User: Me gusta salir s trotar
+ Bot: ORALE, Y CUAL ES TU BANDA FAVORITA?
+806 - Total seconds: 1.0
+ User: Y viajar
+ Bot: ¿Tienes algo para mí?
+807 - Total seconds: 17.0
+ User: Metállica
+ Bot: ¿Qué animales definitivamente no ha tenído en el Arca de Noé?
+808 - Total seconds: 14.0
+ User: No lo se
+ Bot: ¿Qué tienes en mente para el resto del día?
+809 - Total seconds: 24.0
+ User: Trabajar en mi propuesta fe investigación
+ Bot: Si los animales pudieran hablar nuestro idioma, ¿sería bonito?
+810 - Total seconds: 2.0
+ User: De
+ Bot: Si escuchas con atención, ¿qué es lo más silencioso que puede oír?
+811 - Total seconds: 16.0
+ User: Si claro me encantaria hablar con ellos
+ Bot: Excelente.
+812 - Total seconds: 24.0
+ User: No comprendo
+ Bot: ¿Tienes un truco para las fiestas?
+813 - Total seconds: 6.0
+ User: No aun
+ Bot: ¿Cuál es tu recuerdo más fuerte de la ciudad?
+814 - Total seconds: 10.0
+ User: Las montanas
+ Bot: ¿Crees que hay vida después de la muerte?
+815 - Total seconds: 42.0
+ User: A que puede ser una vida diferente a la que vivimos
+ Bot: ¿Acaso crees que no?
+816 - Total seconds: 19.0
+ User: Si ya te lo dije
+ Bot: Excelente.
+817 - Total seconds: 10.0
+ User: Ok
+ Bot: Bien.

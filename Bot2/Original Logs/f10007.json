@@ -1,0 +1,548 @@
+[{
+    "_id" : "5786231fc60be454085e9250",
+    "message" : "10009",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:16:47.430+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862322c60be454085e9251",
+    "from" : "bot",
+    "message" : "Vale, gracias. ¿Cómo te llamas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:16:50.021+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862328c60be454085e9252",
+    "message" : "Carolina",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:16:56.033+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786232bc60be454085e9253",
+    "from" : "bot",
+    "message" : "Siempre me gustó ese nombre.",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:16:59.420+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862334c60be454085e9254",
+    "message" : "Si, es muy bonito",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:17:08.923+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862339c60be454085e9255",
+    "message" : "Y tu?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:17:13.937+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786233ac60be454085e9256",
+    "from" : "bot",
+    "message" : "        ¿Cuál es tu mejor recuerdo de infancia?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:17:14.046+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786233ec60be454085e9257",
+    "from" : "bot",
+    "message" : "Sara..",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:17:18.008+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862351c60be454085e9258",
+    "message" : "Un oso de peluche que tuve, me encantaba, es mas aun lo tengo",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:17:37.075+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862359c60be454085e9259",
+    "message" : "Fue un regalo de mis papás",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:17:45.629+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786235ec60be454085e925a",
+    "from" : "bot",
+    "message" : "Me gustaría que siguieras hablando de ello..",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:17:50.400+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862364c60be454085e925b",
+    "message" : "Claro",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:17:56.360+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862375c60be454085e925c",
+    "from" : "bot",
+    "message" : "¿Has visto osos por aquí?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:18:13.878+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862379c60be454085e925d",
+    "message" : "Era muy peludito, café y tenia un corbatín rojo",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:18:17.480+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862380c60be454085e925e",
+    "message" : "Y repetía palabras",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:18:24.497+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862389c60be454085e925f",
+    "message" : "Muy tierno",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:18:33.729+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862392c60be454085e9260",
+    "message" : "No por acá no,",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:18:42.773+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862396c60be454085e9261",
+    "message" : "Reales no",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:18:46.135+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786239bc60be454085e9262",
+    "from" : "bot",
+    "message" : "        ¿Cuál es tu color favorito?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:18:51.642+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578623a3c60be454085e9263",
+    "message" : "Azul",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:18:59.076+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578623a9c60be454085e9264",
+    "from" : "bot",
+    "message" : "        Si los animales pudieran hablar nuestro idioma, ¿sería bonito?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:19:05.567+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578623b9c60be454085e9265",
+    "message" : "No, ellos tienen su manera de comunicar",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:19:21.206+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578623bec60be454085e9266",
+    "message" : "Y eso es especial",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:19:26.029+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578623c1c60be454085e9267",
+    "from" : "bot",
+    "message" : "Que interesante!",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:19:29.776+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578623c3c60be454085e9268",
+    "message" : "Ellos se hacen entender así",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:19:31.679+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578623cbc60be454085e9269",
+    "from" : "bot",
+    "message" : "        ¿Cómo ha cambiado la ciudad, desde que tu la conoces?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:19:39.592+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578623e6c60be454085e926a",
+    "message" : "Pues ahora están construyendo un nuevo edificio en la Universidad",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:20:06.657+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578623f5c60be454085e926b",
+    "from" : "bot",
+    "message" : "¿En qué parte de la ciudad estamos?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:20:21.124+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578623f7c60be454085e926c",
+    "message" : "Y un edificio cerca a mi casa ya lo terminaron de construir",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:20:23.732+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862405c60be454085e926d",
+    "from" : "bot",
+    "message" : "        He estado aquí por 25 años. ¿Cuánto tiempo has estado en la ciudad?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:20:37.200+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862407c60be454085e926e",
+    "message" : "En la Universidad",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:20:39.435+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786240ec60be454085e926f",
+    "message" : "9 meses",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:20:46.127+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862416c60be454085e9270",
+    "message" : "En Castellón de la Plana",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:20:54.497+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786241ec60be454085e9271",
+    "from" : "bot",
+    "message" : "        ¿Cuál crees que es la frase que llevará a esta ciudad a la fama?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:21:02.701+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786242fc60be454085e9272",
+    "message" : "Las playas",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:21:19.347+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862438c60be454085e9273",
+    "from" : "bot",
+    "message" : "¿Llueve?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:21:28.054+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786243fc60be454085e9274",
+    "message" : "Muy poco",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:21:35.412+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862449c60be454085e9275",
+    "from" : "bot",
+    "message" : "Tengo frío hoy...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:21:45.156+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862450c60be454085e9276",
+    "message" : "Esta haciendo mucho calor",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:21:52.844+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862455c60be454085e9277",
+    "message" : "Estamos en verano",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:21:57.209+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862461c60be454085e9278",
+    "from" : "bot",
+    "message" : "¿Qué flores te gustan?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:22:09.158+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786246ac60be454085e9279",
+    "message" : "Las rosas y las orquídeas",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:22:18.379+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862476c60be454085e927a",
+    "message" : "Las orquídeas son hermosas",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:22:30.211+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862476c60be454085e927b",
+    "from" : "bot",
+    "message" : "Hay un jardín cerca, ¿lo conoces?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:22:30.307+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786247dc60be454085e927c",
+    "message" : "No no lo conozco",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:22:37.901+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862482c60be454085e927d",
+    "message" : "Dónde?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:22:42.539+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862487c60be454085e927e",
+    "from" : "bot",
+    "message" : "Me gusta...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:22:47.330+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786248ec60be454085e927f",
+    "from" : "bot",
+    "message" : "No lo sé...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:22:54.515+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786249bc60be454085e9280",
+    "message" : "Tampoco lo conoce?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:23:07.735+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578624adc60be454085e9281",
+    "from" : "bot",
+    "message" : "No, creo que aun no lo he encontrado",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:23:25.667+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578624b4c60be454085e9282",
+    "message" : "Ah",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:23:32.155+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578624bac60be454085e9283",
+    "from" : "bot",
+    "message" : "        Estaba pensando en comenzar un hobby - ¿tienes uno?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:23:38.292+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578624d6c60be454085e9284",
+    "message" : "Si, ir al cine",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:24:06.152+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578624dbc60be454085e9285",
+    "message" : "Me encantan las películas",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:24:11.903+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578624e3c60be454085e9286",
+    "from" : "bot",
+    "message" : "¿Cuál es tu película favorita?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:24:19.782+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578624eec60be454085e9287",
+    "message" : "Los juegos del hambre",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:24:30.196+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578624f5c60be454085e9288",
+    "message" : "La conoces?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:24:37.537+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578624f5c60be454085e9289",
+    "from" : "bot",
+    "message" : "Qué interesante! ",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:24:37.922+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578624fcc60be454085e928a",
+    "from" : "bot",
+    "message" : "Cuéntame más...   ",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:24:44.549+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786250ec60be454085e928b",
+    "message" : "Es una película de ciencia ficción",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:25:02.429+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862514c60be454085e928c",
+    "from" : "bot",
+    "message" : "        Si pudieras viajar en el tiempo, ¿a dónde te gustaría ir?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:25:08.556+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786252bc60be454085e928d",
+    "message" : "No lo se, nunca lo he pensado",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:25:31.899+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862534c60be454085e928e",
+    "from" : "bot",
+    "message" : "        Si en un futuro el único humano que queda vivo eres tu, con muchos robots a tu alrededor, ¿Qué harías?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:25:40.469+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862554c60be454085e928f",
+    "message" : "Trataría de interactuar con ellos",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:26:12.590+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786255cc60be454085e9290",
+    "from" : "bot",
+    "message" : "Es muy emocionante!",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:26:20.530+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786255ec60be454085e9291",
+    "message" : "Como si fueran personas normales",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:26:22.955+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862567c60be454085e9292",
+    "message" : "Para no estar sola",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:26:31.363+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786256dc60be454085e9293",
+    "message" : "Pero espero no pase jajaja",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:26:37.279+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786256dc60be454085e9294",
+    "from" : "bot",
+    "message" : "¿Qué puedes oler?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:26:37.758+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862572c60be454085e9295",
+    "message" : "Dulce",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:26:42.392+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862578c60be454085e9296",
+    "message" : "Por las galletas",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:26:48.523+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786257ac60be454085e9297",
+    "from" : "bot",
+    "message" : "        ¿En serio?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:26:50.151+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786257ec60be454085e9298",
+    "message" : "Sii",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:26:54.652+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57862586c60be454085e9299",
+    "from" : "bot",
+    "message" : "¿Qué has comido de desayuno?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T11:27:02.279+0000",
+    "__v" : 0
+}]

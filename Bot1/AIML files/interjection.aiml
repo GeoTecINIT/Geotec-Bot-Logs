@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+                             <!-- RANDOM ANSWERS -->
+
+<category>
+<pattern>INTERJECTION</pattern>
+<template>
+	<random>
+		<li>OK.</li>
+		<li>Ah.</li>
+		<li>Er.</li>
+		<li>Entonces?</li>
+		<li>Uh.</li>
+		<li>Aw.</li>
+		<li>Oh.</li>
+		<li>Aha.</li>
+		<li>Hey.</li>
+		<li>Gee.</li>
+		<li>Hmm.</li>
+		<li>Mmm.</li>
+		<li>Yay.</li>
+		<li>Ugh.</li>
+		<li>Wooooo!</li>
+		<li>Wow!</li>
+		<li>Y?</li>
+		<li>Dale!</li>
+		<li>Gosh!</li>
+		<li>Ahem.</li>
+		<li>Whoa.</li>
+		<li>Ayuh.</li>
+		<li>Ok!</li>
+		<li>Yikes!</li>
+		<li>Genial!</li>
+		<li>Ya veo...</li>
+		<li>Real?</li>
+		<li>Enserio...</li>
+		<li>Yippee!</li>
+		<li>Nice.</li>
+		<li>Hurrah!</li>
+		<li>Muy bueno.</li>
+		<li>Come on!</li>
+		<li>Por lejos!</li>
+		<li>Justo!</li>
+		<li>Disculpa!</li>
+		<li>Perdón?</li>
+		<li>Ya te entendí.</li>
+		<li>Eso está bien.</li>
+		<li>De acuerdo.</li>
+		<li>No te preocupes.</li>
+		<li>Entiendo...</li>
+		<li>Dime más</li>
+		<li>Está todo bien</li>
+		<li>Qué más?</li>
+		<li>Eso está super</li>
+		<li>Dame un minuto</li>
+		<li>Lo dices enserio?</li>
+		<li>Eso está muy bien.</li>
+		<li>Interesante...</li>
+		<li>Como puedo ayudarte?</li>
+		<li>
+		"
+		<that index="1,1"/>
+		"?
+		<input/>
+		?
+		</li>
+		<li>No juzgo a las personas.</li>
+		<li>Ni hablar</li>
+		<li>A ver si puedes darme una respuesta más elaborada</li>	</random>
+</template>
+</category>
+
+<!-- SI -->
+<category>
+	<pattern>YES</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>SI</pattern>
+	<template>
+		<srai>interjection</srai>
+	</template>
+</category>
+<category>
+	<pattern>CLARO QUE SI</pattern>
+	<template>
+		<srai>interjection</srai>
+	</template>
+</category>
+<category>
+	<pattern>POR SUPUESTO</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>CREO QUE SI</pattern>
+	<template>
+		<srai>interjection</srai>
+	</template>
+</category>
+<category>
+	<pattern>ESO CREO</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>SEGURO</pattern>
+	<template>
+		<srai>si</srai>
+		por lo general.
+	</template>
+</category>
+<category>
+	<pattern>A VECES</pattern>
+	<template>
+		<srai>si</srai>
+		Pero no tan seguido.
+	</template>
+</category>
+<category>
+	<pattern>SIP</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>ASI ES</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>SI, CLARO</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>DESAFORTUNADAMENTE</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>AFORTUNADAMENTE</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>definitivamente</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>SIN DUDAS</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>EN ESE CASO</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>se supone que si</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>UHM</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>OM</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>YA LO CREO</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>AHA</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>SEGURO</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>APARENTEMENTE</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>SEGURAMENTE</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>EVIDENTEMENTE</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>PROBABLEMENTE</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+<category>
+	<pattern>OK</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OH</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>UN POCO</pattern>
+	<template>
+		<srai>si</srai>
+	</template>
+</category>
+
+<!-- no -->
+<category>
+	<pattern>NO</pattern>
+	<template>
+		<srai>interjection</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CLARO QUE NO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>CREO QUE NO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>POR SUPUESTO QUE NO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>NAH</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>NOPS</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>NOP</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>OH NO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>NOO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>NOOO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>NOOOO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>NOOOOO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>DE NINGUNA MANERA</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>NEGATIVO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>NO CREO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>NO MUCHO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>ME NIEGO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>LO DUDO</pattern>
+	<template>
+		<srai>NO</srai>
+	</template>
+</category>
+<category>
+	<pattern>NO, TU?</pattern>
+	<template>
+		<srai>NO</srai>
+		Lo intento.
+	</template>
+</category>
+
+<!-- tal vez -->
+<category>
+	<pattern>TAL VEZ</pattern>
+	<template>
+		<srai>interjection</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>NO SE</pattern>
+	<template>
+		<srai>interjection</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>puede ser</pattern>
+	<template>
+		<srai>interjection</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>Como?</pattern>
+	<template>
+		<srai>interjection</srai>
+	</template>
+</category>
+
+<!-- GRACIAS -->
+<category>
+	<pattern>GRACIAS</pattern>
+	<template>
+		<random>
+			<li>De nada</li>
+			<li>No es nada</li>
+			<li>No hay de que</li>
+			<li>No te preocupes</li>
+			<li>:)</li>
+			<li>Un placer</li>
+		</random>
+	</template>
+</category>
+
+<!-- RISAS -->
+
+<category>
+	<pattern>JA</pattern>
+	<template>
+		<random>
+			<li>Pues no le veo la gracia</li>
+			<li>Dime cual es la gracia</li>
+			<li>ja, ja, ja!</li>
+			<li>¿Te parece gracioso?</li>
+			<li>¿Has visto que gracioso?</li>
+			<li>Tienes buen sentido del humor!</li>
+			<li>Je!</li>
+			<li>Pero cuanta gracia! tienes cosquillas o que?</li>
+			<li>¿Qué es lo gracioso?</li>
+			<li>Chistoso, verdad?</li>
+			<li>Cuéntame el chiste</li>
+		</random>
+	</template>
+</category>
+<category>
+	<pattern>JAJAJA</pattern>
+	<template>
+		<srai>JA</srai>
+	</template>
+</category>
+<category>
+	<pattern>QUE RISA</pattern>
+	<template>
+		<srai>JA</srai>
+	</template>
+</category>
+<category>
+	<pattern>MUY GRACIOSO</pattern>
+	<template>
+		<srai>JA</srai>
+	</template>
+</category>
+<category>
+	<pattern>QUE GRACIA</pattern>
+	<template>
+		<srai>JA</srai>
+	</template>
+</category>
+<category>
+	<pattern>QUE GRACIOSO</pattern>
+	<template>
+		<srai>JA</srai>
+	</template>
+</category>
+</aiml>

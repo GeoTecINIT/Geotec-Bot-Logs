@@ -1,0 +1,54 @@
+10001
+91eb - Total seconds: -625.0 user: 10001
+91ec - Total seconds: 1.0 bot: Vale, gracias. ¿Cómo te llamas?
+91ed - Total seconds: 9.0 user: Amparo y tú?
+91ee - Total seconds: 8.0 bot: Sara.
+91ef - Total seconds: 6.0 user: Hola Sara
+91f0 - Total seconds: 5.0 bot: Hola
+91f1 - Total seconds: 9.0 user: Que tal?
+91f2 - Total seconds: 11.0 bot: Que lindo día..
+91f3 - Total seconds: 13.0 user: Bueno... Aquí está nublado
+91f4 - Total seconds: 15.0 bot: ¿Hay sol o llueve?
+91f5 - Total seconds: 12.0 user: Ha llovido un poco antes
+91f6 - Total seconds: 9.0 bot: Que interesante...
+91f7 - Total seconds: 13.0 user: Por allí que tiempo hace?
+91f8 - Total seconds: 12.0 bot: Me gusta...
+91f9 - Total seconds: 7.0 user: El que?
+91fa - Total seconds: 8.0 bot:         ¿Cuál es tu película favorita?
+91fb - Total seconds: 16.0 user: De disney? Buscando a Nemo
+91fc - Total seconds: 8.0 bot: Cuéntame más...   
+91fd - Total seconds: 25.0 user: deberías ver la nueva secuela, buscando a Dory, esta muy guau
+91fe - Total seconds: 7.0 user: Guay*
+91ff - Total seconds: 9.0 bot: Lo siento, no entendí...
+9200 - Total seconds: 2.0 bot:         ¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?
+9201 - Total seconds: 44.0 user: No hablo muchas lenguas. Supongo que seria menos bonito, es genial descubrir diferentes modos de comunicar, no solo por medio lenguaje claro
+9202 - Total seconds: 20.0 bot: Cuéntame mas...
+9203 - Total seconds: 11.0 user: Que quieres que te cuente?
+9204 - Total seconds: 6.0 bot:         ¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?
+9205 - Total seconds: 19.0 user: De esto ya hemos hablado, Sara
+9206 - Total seconds: 5.0 bot:         ¿Dónde fuiste de vacaciones la última vez?
+9207 - Total seconds: 52.0 user: Mmmm... Hace mucho que no salgo de España. Mi última escapada fue a Teruel este finde. Mi último viaje hace un par de años a Menorca
+9208 - Total seconds: 12.0 bot: ¿En qué parte de la ciudad estamos?
+9209 - Total seconds: 26.0 user: Yo, en la universidad. Edificio espaitec2
+920a - Total seconds: 14.0 bot: ¿Puedes oler algo?
+920b - Total seconds: 10.0 user: El caramelo que estoy tomando
+920c - Total seconds: 12.0 bot: ¿Has visto pasar muchas jirafas?
+920d - Total seconds: 7.0 user: Jajajajajaja
+920e - Total seconds: 8.0 user: No suelen haber jirafas por aquí
+920f - Total seconds: 4.0 bot:  ¿Qué harías si en el futuro no existieran más los libros?
+9210 - Total seconds: 14.0 bot:         Si en un futuro el único humano que queda vivo eres tu, con muchos robots a tu alrededor, ¿Qué harías?
+9211 - Total seconds: 11.0 user: Te refieres a formato impreso?
+9212 - Total seconds: 14.0 bot:         ¿Por qué no me explicas un chiste?
+9213 - Total seconds: 10.0 user: Supongo que acostumbrarme... Pero la vida sin animales seria muy triste
+9214 - Total seconds: 9.0 user: No se contar chistes
+9215 - Total seconds: 8.0 bot:         Vale. ¿Qué opinas de la cuadratura del círculo?
+9216 - Total seconds: 10.0 user: Esta aseada
+9217 - Total seconds: 10.0 bot: Qué lindo! 
+9218 - Total seconds: 5.0 user: Jajajaja
+9219 - Total seconds: 9.0 bot: ¿Te gustan los gatos o los perros?
+921a - Total seconds: 8.0 user: Soy mas de perrod
+921b - Total seconds: 10.0 bot: Lo siento, no entendí...
+921c - Total seconds: 6.0 user: Los perros
+921d - Total seconds: 19.0 bot: ¿h¡Has visto a los perros hablar? Yo sí...
+921e - Total seconds: 11.0 user: Dicen mamá
+921f - Total seconds: 16.0 bot: Cuéntame algo de tu infancia...

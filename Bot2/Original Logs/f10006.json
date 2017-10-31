@@ -1,0 +1,157 @@
+[{
+    "_id" : "57b2d31b24bcaaed22e52cc9",
+    "message" : "10006",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:47:23.106+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d31f24bcaaed22e52cca",
+    "from" : "",
+    "message" : "Vale, gracias. ¿Cómo te llamas?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:47:27.147+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d32824bcaaed22e52ccb",
+    "message" : "Hola Carolina",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:47:36.106+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d32e24bcaaed22e52ccc",
+    "from" : "",
+    "message" : "Siempre me gustó ese nombre.",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:47:42.296+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d33324bcaaed22e52ccd",
+    "message" : "Gracias",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:47:47.712+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d33d24bcaaed22e52cce",
+    "from" : "",
+    "message" : "¿Dónde vives?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:47:57.099+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d34924bcaaed22e52ccf",
+    "message" : "Bogota",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:48:09.189+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d35824bcaaed22e52cd0",
+    "from" : "",
+    "message" : "Cuéntame más sobre eso...",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:48:24.878+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d37324bcaaed22e52cd1",
+    "message" : "Es una ciudad interesante y agitada",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:48:51.012+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d37d24bcaaed22e52cd2",
+    "from" : "",
+    "message" : "¿Te gusta vivir en una ciudad?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:49:01.493+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d3ab24bcaaed22e52cd3",
+    "message" : "Me gusta sus puntos de interes y puedes encontrar de todo",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:49:47.844+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d3ca24bcaaed22e52cd4",
+    "message" : "Y variedad gastronomica",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:50:18.443+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d3ce24bcaaed22e52cd5",
+    "from" : "",
+    "message" : "        ¿Dónde fuiste de vacaciones la última vez?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:50:22.159+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d3e724bcaaed22e52cd6",
+    "message" : "A Castellon",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:50:47.561+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d40324bcaaed22e52cd7",
+    "from" : "",
+    "message" : "Yo vivo en Castellón",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:51:15.878+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d41824bcaaed22e52cd8",
+    "message" : "Y que hay de interesante?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:51:36.203+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d42724bcaaed22e52cd9",
+    "from" : "",
+    "message" : "Me gusta la playa. ¿Has ido?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:51:51.596+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d43d24bcaaed22e52cda",
+    "message" : "Si bien",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:52:13.362+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d44924bcaaed22e52cdb",
+    "from" : "",
+    "message" : "Qué interesante! ",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:52:25.076+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d49624bcaaed22e52cdc",
+    "message" : "Que actividades hay?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:53:42.129+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2d4c224bcaaed22e52cdd",
+    "from" : "",
+    "message" : "        ¿Cuál es tu mejor recuerdo de infancia?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T08:54:26.415+0000",
+    "__v" : 0
+}]

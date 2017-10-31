@@ -1,0 +1,270 @@
+[{
+    "_id" : "578ce598705812f18a6c5181",
+    "message" : "10010",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:20:08.752+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce59a705812f18a6c5182",
+    "from" : "bot",
+    "message" : "Vale, gracias. ¿Cómo te llamas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:20:10.979+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce5a5705812f18a6c5183",
+    "message" : "Aida",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:20:21.343+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce5a9705812f18a6c5184",
+    "from" : "bot",
+    "message" : "Siempre me gustó ese nombre.",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:20:25.453+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce5ab705812f18a6c5185",
+    "message" : "Y tu?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:20:27.706+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce5af705812f18a6c5186",
+    "from" : "bot",
+    "message" : "Sara.",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:20:31.471+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce5b6705812f18a6c5187",
+    "message" : "Hola sara",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:20:38.927+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce5be705812f18a6c5188",
+    "from" : "bot",
+    "message" : "Hola!",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:20:46.250+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce5d6705812f18a6c5189",
+    "message" : "Que tal el día?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:21:10.387+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce5e4705812f18a6c518a",
+    "from" : "bot",
+    "message" : "Bien. Y el tuyo?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:21:24.414+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce5ee705812f18a6c518b",
+    "message" : "A mi también me gusta tu nombre.",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:21:34.373+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce5f8705812f18a6c518c",
+    "from" : "bot",
+    "message" : "¿Eres de por aqui?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:21:44.728+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce60c705812f18a6c518d",
+    "message" : "Si, soy de l'alcora",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:22:04.335+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce618705812f18a6c518e",
+    "from" : "bot",
+    "message" : "Cuéntame más...",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:22:16.092+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce626705812f18a6c518f",
+    "message" : "Pero vivo en castellón",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:22:30.389+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce62e705812f18a6c5190",
+    "from" : "bot",
+    "message" : "        ¿Cuál es tu mejor recuerdo de infancia?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:22:38.305+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce650705812f18a6c5191",
+    "message" : "Cuando adopté a mi perrito.",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:23:12.524+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce659705812f18a6c5192",
+    "from" : "bot",
+    "message" : "Que lindo! ",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:23:21.827+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce681705812f18a6c5193",
+    "message" : "Si, era una mezcla de pastor alemán y husky siberiano",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:24:01.433+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce696705812f18a6c5194",
+    "from" : "bot",
+    "message" : "¿Conoces Alemania?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:24:22.298+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce6a9705812f18a6c5195",
+    "message" : "Si, estudié en münster",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:24:41.632+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce6b4705812f18a6c5196",
+    "from" : "bot",
+    "message" : "Dicen que su cerveza es buena...",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:24:52.486+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce6d2705812f18a6c5197",
+    "message" : "No lo se, no me gusta la cerveza",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:25:22.839+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce6de705812f18a6c5198",
+    "from" : "bot",
+    "message" : "¿Te gusta volar?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:25:34.895+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce6f4705812f18a6c5199",
+    "message" : "Si, me gusta volar para viajar",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:25:56.900+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce702705812f18a6c519a",
+    "from" : "bot",
+    "message" : "¿Dónde fuiste de vacaciones por última vez?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:26:10.167+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce714705812f18a6c519b",
+    "message" : "Fui a egipto",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:26:28.456+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce722705812f18a6c519c",
+    "from" : "bot",
+    "message" : "Que interesante! ",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:26:42.555+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce732705812f18a6c519d",
+    "message" : "Si, mucho",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:26:58.794+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce747705812f18a6c519e",
+    "from" : "bot",
+    "message" : "Yo nunca he viajado. ¿Dónde me recomiendas ir?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:27:19.214+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce756705812f18a6c519f",
+    "message" : "Ven a españa",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:27:34.263+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce772705812f18a6c51a0",
+    "from" : "bot",
+    "message" : "Vivo en la Universidad Jaume I",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:28:02.855+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce781705812f18a6c51a1",
+    "message" : "Ah si? Interesante",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:28:17.756+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce791705812f18a6c51a2",
+    "from" : "bot",
+    "message" : "¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:28:33.084+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce7b2705812f18a6c51a3",
+    "message" : "Hablo 4 lenguas, sería muy aburrido",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:29:06.792+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578ce7c1705812f18a6c51a4",
+    "from" : "bot",
+    "message" : "¿Qué haces para divertirte?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T14:29:21.209+0000",
+    "__v" : 0
+}]

@@ -1,0 +1,397 @@
+[{
+    "_id" : "57860409c60be454085e91eb",
+    "message" : "10001",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:04:09.587+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786040ac60be454085e91ec",
+    "from" : "bot",
+    "message" : "Vale, gracias. ¿Cómo te llamas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:04:10.847+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860413c60be454085e91ed",
+    "message" : "Amparo y tú?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:04:19.799+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786041bc60be454085e91ee",
+    "from" : "bot",
+    "message" : "Sara.",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:04:27.994+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860421c60be454085e91ef",
+    "message" : "Hola Sara",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:04:33.727+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860426c60be454085e91f0",
+    "from" : "bot",
+    "message" : "Hola",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:04:38.967+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786042fc60be454085e91f1",
+    "message" : "Que tal?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:04:47.422+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786043ac60be454085e91f2",
+    "from" : "bot",
+    "message" : "Que lindo día..",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:04:58.235+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860447c60be454085e91f3",
+    "message" : "Bueno... Aquí está nublado",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:05:11.903+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860456c60be454085e91f4",
+    "from" : "bot",
+    "message" : "¿Hay sol o llueve?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:05:26.071+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860462c60be454085e91f5",
+    "message" : "Ha llovido un poco antes",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:05:38.287+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786046bc60be454085e91f6",
+    "from" : "bot",
+    "message" : "Que interesante...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:05:47.893+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860478c60be454085e91f7",
+    "message" : "Por allí que tiempo hace?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:06:00.859+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860484c60be454085e91f8",
+    "from" : "bot",
+    "message" : "Me gusta...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:06:12.040+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786048bc60be454085e91f9",
+    "message" : "El que?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:06:19.269+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860493c60be454085e91fa",
+    "from" : "bot",
+    "message" : "        ¿Cuál es tu película favorita?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:06:27.254+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578604a3c60be454085e91fb",
+    "message" : "De disney? Buscando a Nemo",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:06:43.984+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578604abc60be454085e91fc",
+    "from" : "bot",
+    "message" : "Cuéntame más...   ",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:06:51.704+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578604c4c60be454085e91fd",
+    "message" : "deberías ver la nueva secuela, buscando a Dory, esta muy guau",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:07:16.983+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578604cbc60be454085e91fe",
+    "message" : "Guay*",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:07:23.079+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578604d4c60be454085e91ff",
+    "from" : "bot",
+    "message" : "Lo siento, no entendí...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:07:32.417+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578604d6c60be454085e9200",
+    "from" : "bot",
+    "message" : "        ¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:07:34.398+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860502c60be454085e9201",
+    "message" : "No hablo muchas lenguas. Supongo que seria menos bonito, es genial descubrir diferentes modos de comunicar, no solo por medio lenguaje claro",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:08:18.366+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860516c60be454085e9202",
+    "from" : "bot",
+    "message" : "Cuéntame mas...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:08:38.656+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860521c60be454085e9203",
+    "message" : "Que quieres que te cuente?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:08:49.349+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860527c60be454085e9204",
+    "from" : "bot",
+    "message" : "        ¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:08:55.254+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786053ac60be454085e9205",
+    "message" : "De esto ya hemos hablado, Sara",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:09:14.328+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786053fc60be454085e9206",
+    "from" : "bot",
+    "message" : "        ¿Dónde fuiste de vacaciones la última vez?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:09:19.607+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860573c60be454085e9207",
+    "message" : "Mmmm... Hace mucho que no salgo de España. Mi última escapada fue a Teruel este finde. Mi último viaje hace un par de años a Menorca",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:10:11.176+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786057fc60be454085e9208",
+    "from" : "bot",
+    "message" : "¿En qué parte de la ciudad estamos?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:10:23.681+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860599c60be454085e9209",
+    "message" : "Yo, en la universidad. Edificio espaitec2",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:10:49.942+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578605a7c60be454085e920a",
+    "from" : "bot",
+    "message" : "¿Puedes oler algo?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:11:03.792+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578605b1c60be454085e920b",
+    "message" : "El caramelo que estoy tomando",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:11:13.007+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578605bdc60be454085e920c",
+    "from" : "bot",
+    "message" : "¿Has visto pasar muchas jirafas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:11:25.923+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578605c4c60be454085e920d",
+    "message" : "Jajajajajaja",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:11:32.225+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578605ccc60be454085e920e",
+    "message" : "No suelen haber jirafas por aquí",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:11:40.453+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578605d0c60be454085e920f",
+    "from" : "bot",
+    "message" : " ¿Qué harías si en el futuro no existieran más los libros?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:11:44.382+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578605dec60be454085e9210",
+    "from" : "bot",
+    "message" : "        Si en un futuro el único humano que queda vivo eres tu, con muchos robots a tu alrededor, ¿Qué harías?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:11:58.987+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578605e9c60be454085e9211",
+    "message" : "Te refieres a formato impreso?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:12:09.828+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578605f7c60be454085e9212",
+    "from" : "bot",
+    "message" : "        ¿Por qué no me explicas un chiste?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:12:23.945+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860601c60be454085e9213",
+    "message" : "Supongo que acostumbrarme... Pero la vida sin animales seria muy triste",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:12:33.907+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786060ac60be454085e9214",
+    "message" : "No se contar chistes",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:12:42.514+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860612c60be454085e9215",
+    "from" : "bot",
+    "message" : "        Vale. ¿Qué opinas de la cuadratura del círculo?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:12:50.948+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786061cc60be454085e9216",
+    "message" : "Esta aseada",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:13:00.667+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860626c60be454085e9217",
+    "from" : "bot",
+    "message" : "Qué lindo! ",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:13:10.788+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786062bc60be454085e9218",
+    "message" : "Jajajaja",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:13:15.688+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860634c60be454085e9219",
+    "from" : "bot",
+    "message" : "¿Te gustan los gatos o los perros?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:13:24.941+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786063cc60be454085e921a",
+    "message" : "Soy mas de perrod",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:13:32.426+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57860646c60be454085e921b",
+    "from" : "bot",
+    "message" : "Lo siento, no entendí...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:13:42.005+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786064cc60be454085e921c",
+    "message" : "Los perros",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:13:48.427+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786065fc60be454085e921d",
+    "from" : "bot",
+    "message" : "¿h¡Has visto a los perros hablar? Yo sí...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:14:07.475+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786066ac60be454085e921e",
+    "message" : "Dicen mamá",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:14:18.395+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786067ac60be454085e921f",
+    "from" : "bot",
+    "message" : "Cuéntame algo de tu infancia...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T09:14:34.767+0000",
+    "__v" : 0
+}]

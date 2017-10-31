@@ -1,0 +1,41 @@
+10008
+48af - Total seconds: -790.0 user: 10008
+48b0 - Total seconds: 5.0 bot: Vale, gracias. ¿Cómo te llamas?
+48b1 - Total seconds: 13.0 user: Azucena
+48b2 - Total seconds: 7.0 bot: Siempre me gustó ese nombre.
+48b3 - Total seconds: 26.0 user: Gracias, no is my comun
+48b4 - Total seconds: 15.0 bot:  ¿Cuál es tu deporte favorito?
+48b5 - Total seconds: 22.0 user: Natacion
+48b6 - Total seconds: 17.0 bot:    ¿Dónde fuiste de vacaciones la última vez?
+48b7 - Total seconds: 9.0 user: USA
+48b8 - Total seconds: 15.0 bot: Eso que comentas parece muy interesante.
+48b9 - Total seconds: 11.0 user: Gracias
+48ba - Total seconds: 10.0 bot:   ¿Cómo sería la vida si pudieras hablar con todos los objetos como lo haces conmigo?
+48bb - Total seconds: 25.0 user: Mas divertida
+48bc - Total seconds: 18.0 bot: ¿Dónde te gustaría ir de vacaciones?
+48bd - Total seconds: 18.0 user: A Italia
+48be - Total seconds: 26.0 bot: Es muy emocionante...
+48bf - Total seconds: 15.0 user: Si
+48c0 - Total seconds: 18.0 bot:   ¿Has visto muchos gnomos por aquí?
+48c1 - Total seconds: 38.0 user: No, ninguno, son tan pequenos...
+48c2 - Total seconds: 36.0 bot:  ¿Cómo has llegado hasta aquí?
+48c3 - Total seconds: 21.0 user: Caminando
+48c4 - Total seconds: 16.0 bot: Háblame de esta parte de la ciudad.
+48c5 - Total seconds: 40.0 user: Es el campus d LA universidad
+48c6 - Total seconds: 8.0 bot: ¿Puedes oler algo?
+48c7 - Total seconds: 10.0 user: No
+48c8 - Total seconds: 38.0 bot:       ¿Cuál crees que es la frase que llevará a esta ciudad a la fama?
+48c9 - Total seconds: 43.0 user: El clima lo es todo
+48ca - Total seconds: 17.0 bot: ¿Esta lloviendo?
+48cb - Total seconds: 6.0 user: No
+48cc - Total seconds: 20.0 bot: Te veo muy seguro de tus palabras.
+48cd - Total seconds: 15.0 user: Pues si
+48ce - Total seconds: 22.0 bot: No soy muy popular por aquí. Ya casi nos hemos hecho amigos - di algo agradable sobre mí.
+48cf - Total seconds: 25.0 user: Rees muy agradable
+48d0 - Total seconds: 23.0 bot:   Lo siento, no te comprendí.
+48d1 - Total seconds: 26.0 user: Eres muy agradable
+48d2 - Total seconds: 21.0 bot:   Si tuvieras que abandonar este planeta para vivir en una colonia espacial ¿Qué te llevarías?
+48d3 - Total seconds: 26.0 user: Un amigo
+48d4 - Total seconds: 30.0 bot: Upss.. me han llamado de otro lado.
+48d5 - Total seconds: 15.0 user: OK adios
+48d6 - Total seconds: 24.0 bot: Adiós.

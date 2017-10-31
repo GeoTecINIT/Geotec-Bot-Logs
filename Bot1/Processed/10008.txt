@@ -1,0 +1,61 @@
+10008
+780 - Total seconds: -666.0
+ User: 10008
+ Bot: ¿Y si desaparecen los códigos postales cómo llegarían las cosas a tu casa?
+781 - Total seconds: 52.0
+ User: Por el nombre de la calle
+ Bot: ¿Cuál es tu recuerdo favorito de esta ciudad?
+782 - Total seconds: 38.0
+ User: De que ciudad?
+ Bot: ¿Qué se puede ver allí a pie de calle?
+783 - Total seconds: 78.0
+ User: Me imagino una ciudad que me guste. Puedo ver un bonito amanecer
+ Bot: ¿Crees que hay vida después de la muerte?
+784 - Total seconds: 11.0
+ User: No
+ Bot: ¿Entonces?
+785 - Total seconds: 37.0
+ User: Nos morimos y ya esta, se acabo
+ Bot: La muerte era considerada por los antiguos egipcios como la entrada al mundo de los dioses.
+786 - Total seconds: 56.0
+ User: Si, muy interesante su mitología. Una gran aportación cultural
+ Bot: ¿En serio lo crees?
+787 - Total seconds: 42.0
+ User: Me encantan. Si podría
+ Bot: ¿Qué se puede ver allí a pie de calle?
+788 - Total seconds: 18.0
+ User: Una catedral
+ Bot: ¿Crees que las máquinas son inteligentes?
+789 - Total seconds: 16.0
+ User: Todavía muy poco
+ Bot: ¿Cómo le llamab a esta parte de la ciudad?
+790 - Total seconds: 30.0
+ User: piazza del Duomo
+ Bot: Supongamos que la clonación es posible y accesible, ¿cuantos clones querrías?
+791 - Total seconds: 36.0
+ User: Mios o de otras personas?
+ Bot: ¿Crees que es sencillo hablar con los humanos?
+792 - Total seconds: 21.0
+ User: Si, bastante
+ Bot: ¿Que futuros posibles te imaginas? ¿Qué crees que cambie en este mundo?
+793 - Total seconds: 75.0
+ User: Que simpatico
+ Bot: Si pudieras viajar en el tiempo, ¿a donde te gustaría ir?
+794 - Total seconds: 11.0
+ User: All futuro
+ Bot: Si tu tiempo fuera la moneda en la economía global... en que lo gastarías?
+795 - Total seconds: 28.0
+ User: In viajar
+ Bot: Sé que esto suena un poco vanidoso, pero es lo parecemos viejos?
+796 - Total seconds: 37.0
+ User: Te estas liando
+ Bot: Si en un futuro el único humano que queda vivo eres tu, con muchos robots a tu alrededor, ¿Qué harías?
+797 - Total seconds: 41.0
+ User: Llevarne lo major posible
+ Bot: ¿Dónde fuiste de vacaciones la última vez?
+798 - Total seconds: 15.0
+ User: A USA
+ Bot: ¿Conocés algún extranjero viviendo aquí? ¿de donde?
+799 - Total seconds: 24.0
+ User: De Mexico
+ Bot: ¿Donde puedo enviar a las personas que solicitan una buena caña?

@@ -1,0 +1,20 @@
+#!/usr/local/bin/python
+# coding: utf-8
+data = [[800, '10011', '10011', '¿Qué harías si en el futuro no existieran más los libros?', 140, 'tel-263536194', 1, '2016-07-11 10:08:52'],
+[801, 'Estaria triste', 'ESTARIA TRISTE', '¿Cómo sería la vida si pudieras hablar con todos los objetos como lo haces conmigo?', 140, 'tel-263536194', 1, '2016-07-11 10:09:22'],
+[802, 'Cuales objetos', 'CUALES OBJETOS', '¿Cómo sería la vida si pudieras hablar con todos los objetos como lo haces conmigo?', 140, 'tel-263536194', 1, '2016-07-11 10:09:34'],
+[803, 'Cuales objetos?', 'CUALES OBJETOS', '¿Por qué no me explicas un chiste?', 140, 'tel-263536194', 1, '2016-07-11 10:10:01'],
+[804, 'No recuerdo un chiste ahora', 'NO RECUERDO UN CHISTE AHORA', '¿Me cuentas algo divertido?', 140, 'tel-263536194', 1, '2016-07-11 10:10:21'],
+[805, 'Me gusta salir s trotar', 'ME GUSTA SALIR S TROTAR', 'ORALE, Y CUAL ES TU BANDA FAVORITA?', 140, 'tel-263536194', 1, '2016-07-11 10:10:42'],
+[806, 'Y viajar', 'Y VIAJAR', '¿Tienes algo para mí?', 140, 'tel-263536194', 1, '2016-07-11 10:10:43'],
+[807, 'Metállica', 'METÁLLICA', '¿Qué animales definitivamente no ha tenído en el Arca de Noé?', 140, 'tel-263536194', 1, '2016-07-11 10:11:00'],
+[808, 'No lo se', 'NO LO SE', '¿Qué tienes en mente para el resto del día?', 140, 'tel-263536194', 1, '2016-07-11 10:11:14'],
+[809, 'Trabajar en mi propuesta fe investigación', 'TRABAJAR EN MI PROPUESTA FE INVESTIGACIÓN', 'Si los animales pudieran hablar nuestro idioma, ¿sería bonito?', 140, 'tel-263536194', 1, '2016-07-11 10:11:38'],
+[810, 'De', 'DE', 'Si escuchas con atención, ¿qué es lo más silencioso que puede oír?', 140, 'tel-263536194', 1, '2016-07-11 10:11:40'],
+[811, 'Si claro me encantaria hablar con ellos', 'SI CLARO ME ENCANTARIA HABLAR CON ELLOS', 'Excelente.', 140, 'tel-263536194', 1, '2016-07-11 10:11:56'],
+[812, 'No comprendo', 'NO COMPRENDO', '¿Tienes un truco para las fiestas?', 140, 'tel-263536194', 1, '2016-07-11 10:12:20'],
+[813, 'No aun', 'NO AUN', '¿Cuál es tu recuerdo más fuerte de la ciudad?', 140, 'tel-263536194', 1, '2016-07-11 10:12:26'],
+[814, 'Las montanas', 'LAS MONTANAS', '¿Crees que hay vida después de la muerte?', 140, 'tel-263536194', 1, '2016-07-11 10:12:36'],
+[815, 'A que puede ser una vida diferente a la que vivimos', 'A QUE PUEDE SER UNA VIDA DIFERENTE A LA QUE VIVIMOS', '¿Acaso crees que no?', 140, 'tel-263536194', 1, '2016-07-11 10:13:18'],
+[816, 'Si ya te lo dije', 'SI YA TE LO DIJE', 'Excelente.', 140, 'tel-263536194', 1, '2016-07-11 10:13:37'],
+[817, 'Ok', 'OK', 'Bien.', 140, 'tel-263536194', 1, '2016-07-11 10:13:47']]

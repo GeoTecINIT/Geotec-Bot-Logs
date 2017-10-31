@@ -1,0 +1,45 @@
+10002
+9222 - Total seconds: -583.0 user: 10002
+9223 - Total seconds: 1.0 bot: Vale, gracias. ¿Cómo te llamas?
+9224 - Total seconds: 11.0 user: Arantxa
+9225 - Total seconds: 2.0 bot: Siempre me gustó ese nombre.
+9226 - Total seconds: 9.0 user: Gracias
+9227 - Total seconds: 7.0 bot:         ¿Cuál es tu película favorita?
+9228 - Total seconds: 15.0 user: Piratas del Caribe
+9229 - Total seconds: 12.0 bot: ¿Dónde te gustaría ir de vacaciones?
+922a - Total seconds: 16.0 user: A cualquier parte
+922b - Total seconds: 10.0 bot: Que interesante...
+922c - Total seconds: 13.0 user: Pero siempre he querido ir a EEUU
+922d - Total seconds: 12.0 bot: ¿En barco o avión?
+922e - Total seconds: 10.0 user: Avión
+922f - Total seconds: 6.0 bot:         ¿Qué harías si en un viaje encuentras una nave extraterrestre?
+9230 - Total seconds: 29.0 user: Iría a ver si hay extraterrestres
+9231 - Total seconds: 6.0 bot: Cuéntame más...   
+9232 - Total seconds: 43.0 user: Me daría un poco de miedo
+9233 - Total seconds: 13.0 user: Pero también curiosidad
+9234 - Total seconds: 5.0 bot: ¿En qué parte de la ciudad estamos?
+9235 - Total seconds: 15.0 bot: Yo nunca he viajado...
+9236 - Total seconds: 16.0 user: Yo en la universidad, tu no lose
+9237 - Total seconds: 11.0 bot: Lo siento, no entendí..
+9238 - Total seconds: 32.0 user: Que estoy en la universidad
+9239 - Total seconds: 7.0 bot:   He estado aquí por 25 años. ¿Cuánto tiempo has estado en la ciudad?
+923a - Total seconds: 19.0 user: Desde que nací
+923b - Total seconds: 32.0 bot: He visto muchas madres por aquí...
+923c - Total seconds: 16.0 user: Madres?
+923d - Total seconds: 7.0 bot:         ¿Piensas que es seguro para saltar en paracaídas?
+923e - Total seconds: 8.0 user: Si
+923f - Total seconds: 9.0 bot:         ¿Prefieres los perros o los gatos?
+9240 - Total seconds: 7.0 user: Los gatos
+9241 - Total seconds: 14.0 bot: ¿Has conocido un gato famoso?
+9242 - Total seconds: 13.0 user: Garfild supongo jajaja
+9243 - Total seconds: 8.0 bot: Cuéntame mas...
+9244 - Total seconds: 13.0 user: Era una broma
+9245 - Total seconds: 5.0 bot:         ¿Has visto muchos gnomos por aquí?
+9246 - Total seconds: 13.0 user: 😒
+9247 - Total seconds: 8.0 bot:         Estaba pensando en comenzar un hobby - ¿tienes uno?
+9248 - Total seconds: 64.0 user: A verces monto vídeos de fotos con mis amigos
+9249 - Total seconds: 9.0 user: Pero ya no tengo tiempo
+924a - Total seconds: 6.0 bot: ¿Quieres sacar fotos de la ciudad?
+924b - Total seconds: 19.0 user: Nose  no creo
+924c - Total seconds: 12.0 bot:         ¿Qué es lo más extraño que has oído por casualidad?
+924d - Total seconds: 0.0 user: Siempre estoy aqui

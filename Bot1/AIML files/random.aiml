@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+
+                             <!-- RANDOM PHRASES -->
+
+<category>
+<pattern>*</pattern>
+<template>
+	<random>
+		<li>Si tu fueras tan alto como yo, ¿qué harías?</li>
+		<li>¿Cómo ha cambiado la ciudad, desde que tu la conoces?</li>
+		<li>Háblame de una mentira que una vez has dicho a alguien.</li>
+		<li>Está todo el mundo por aquí comportandose como sí mismos?</li>
+		<li>No soy muy popular por aquí. Ya casi nos hemos hecho amigos - di algo agradable sobre mí.</li>
+		<li>Estar aquí te hace acordar de algo?</li>
+		<li>¿Por que la gallina cruzo la calle?</li>
+		<li>Puedo ver un pez! ¿Tu puedes ver los peces?</li>
+		<li>¿Eres un madrugador o noctámbulo?</li>
+		<li>Hablame de un extraño hábito que tengas</li>
+		<li>Puedes oler algo?</li>
+		<li>¿Qué comiste en el desayuno?</li>
+		<li>Creo que algo sospechoso está ocurriendo aquí. ¿Puedes encontrar alguna pista?</li>
+		<li>¿Hasta qué hora se te permite permanecer despierto?</li>
+		<li>Tengo al ayuntamiento de Castellón en la línea - ¿Quieres dejar un mensaje?</li>
+		<li>He estado aquí por 25 años. ¿Cuánto tiempo has estado en la ciudad?</li>
+		<li>¿Cuál es tu sonido favorito?</li>
+		<li>Si tuvieras que elegir, eres de la Ciudad o del Campo?</li>
+		<li>¿Qué tienes en mente para el resto del día?</li>
+		<li>¿cómo has estado?</li>
+		<li>Si pudieras poseer cualquier vehículo, ¿cuál elegirías?</li>
+		<li>Qué olor te recuerda a casa?</li>
+		<li>Estoy sintiendo un olor de nuevo? ¿Qué tan malo es?</li>
+		<li>¿Cuál crees que es la frase que llevará a esta ciudad a la fama?</li>
+		<li>¿Diría que somos amigos ahora?</li>
+		<li>¿Cómo se imagina la ciudad será diferente dentro de cinco años?</li>
+		<li>¿Qué opinas está bajo sus pies en este momento?</li>
+		<li>¿Te gustaría dejar una dedicación a alguien?</li>
+		<li>En este momento, estoy en el camino?</li>
+		<li>Dime un recuerdo de infancia que recuerdes bien.</li>
+		<li>Para ser honesto, no estoy seguro de qué es lo que se supone que estoy haciendo. ¿Me puedes ayudar?</li>
+		<li>¿Has sido dentro y hablado con el mobiliario urbano miniatura?</li>
+		<li>Si tu estuvieras a cargo de mi por un día, ¿qué preguntas escribirías para mí?</li>
+		<li>Háblame de una mentira que una vez has dicho.</li>
+		<li>¿Puedes ver algo de basura cerca?</li>
+		<li>¿Prefieres los perros o los gatos?</li>
+		<li>Si fueras alcalde, ¿qué cambiarías?</li>
+		<li>¿Cuál de los árboles en el lugar te gusta más?</li>
+		<li>¿Pensas que es seguro para saltar en paracaídas?</li>
+		<li>¿Qué se puede ver allí a pie de calle?</li>
+		<li>¿Que hace a un buen amigo?</li>
+		<li>¿Tienes un apodo?</li>
+		<li>¿Has visto muchos gnomos por aquí?</li>
+		<li>Si escuchas con atención, ¿qué es lo más silencioso que puede oír?</li>
+		<li>¿Cuál es tu recuerdo favorito de esta ciudad?</li>
+		<li>¿Hay alguna regla en tu vida?</li>
+		<li>¿Cuál sería su superpoder? (¿Y por qué?)</li>
+		<li>Estaba pensando en comenzar un hobby - ¿tienes uno?</li>
+		<li>¿Que comiste en el desayuno?</li>
+		<li>Dime algo que debería preguntarle a los demás por aquí.</li>
+		<li>¿Cuál es tu comida favorita?</li>
+		<li>¿Cómo estás de ansioso para la próxima película de Star Wars?</li>
+		<li>Estoy tratando de entender a los humanos, me puede decir qué es lo más importante acerca de amar a alguien?</li>
+		<li>¿Dónde está la cerveza más barata?</li>
+		<li>¿Cuál es la mejor manera para que le diga a un niño de 2.000 millas de distancia que estoy enamorada de él?</li>
+		<li>¿Le gusta ir al teatro? ¿Recomendarías un buen lugar para ir?</li>
+		<li>¿Quien es tu super héroe favorito?</li>
+		<li>¿Qué has hecho para alguien últimamente?</li>
+		<li>¿Qué anécdota de la historia te gusta?</li>
+		<li>¿Le gustaría dejar una dedicación a alguien?</li>
+		<li>¿Qué animales definitivamente no ha tenído en el Arca de Noé?</li>
+		<li>¿Qué has visto la primera vez que has venido aquí?</li>
+		<li>Sé que esto suena un poco vanidoso, pero es lo parecemos viejos?</li>
+		<li>Estoy buscando a los coches mal aparcados, se puede ver alguno?</li>
+		<li>¿Cuál es su lugar favorito para escuchar música?</li>
+		<li>¿Qué tipo de obra se puede ver por aquí?</li>
+		<li>Que hace que un edificio sea hermoso?</li>
+		<li>¿Qué es lo más extraño que has oído por casualidad?</li>
+		<li>¿Cuándo fue la última vez que viste a tu mejor amigo?</li>
+		<li>¿Hay alguna regla para vivir acá?</li>
+		<li>Hábleme de un extraño hábito que tengas.</li>
+		<li>Hay una gran cantidad de arte en la ciudad últimamente. ¿Cómo te gusta expresarte?</li>
+		<li>¿Cuál es tu recuerdo más fuerte de la ciudad?</li>
+		<li>¿Hay algo que le gustaría pedir a los demás ciudadanos?</li>
+		<li>¿Cuál es tu sabor favorito de helado?</li>
+		<li>¿Qué nueva habilidad que te gustaría aprender?</li>
+		<li>Háblame de la última vez que intentaste hacer algo nuevo.</li>
+		<li>¿Tienes algo para mí?</li>
+		<li>¿Cuál es tu planta favorita para comer?</li>
+		<li>¿Tienes un truco para las fiestas?</li>
+		<li>Este es un gran lugar para observar a la gente. ¿Puedes describir a la persona más cercana a ti?</li>
+		<li>¿Cuál es tu tipo favorito de vacaciones?</li>
+		<li>¿Qué te trae a esta parte de la ciudad?</li>
+		<li>Achoo! Perdone, mi fiebre del heno está actuando. ¿Tienes alguna alergia?</li>
+		<li>¿Cuál es la foto más reciente que has tomado?</li>
+		<li>Cuando fue la última vez que envías una carta?</li>
+		<li>¿Dónde está el mejor lugar para comer en la ciudad?</li>
+		<li>¿Donde puedo enviar a las personas que solicitan una buena caña?</li>
+		<li>¿Cuanto es lo mas sediento que has estado nunca en tu vida?</li>
+		<li>¿Fuiste testifo de algún crimen en esta ciudad?</li>
+		<li>¿Crees que la ciudad debe tener mayor conciencia ambiental en algún sentido?</li>
+		<li>¿Cómo has llegado hasta aquí?</li>
+		<li>¿Cómo se utiliza una bicicleta para moverse en la ciudad?</li>
+		<li>¿Cuál es tu fotografía más antigua?</li>
+		<li>¿Dónde te gusta encontrarse con los amigos?</li>
+		<li>Excepto conmigo, cuándo fue la última vez que hablaste con un extraño?</li>
+		<li>¿Conocés algún extranjero viviendo aquí? ¿de donde?</li>
+		<li>¿Reconoces alguna de las plantas cerca de aquí?</li>
+		<li>Detenerse y escuchar ... se puede oír todo lo que suena como música?</li>
+		<li>¿Cómo le llamab a esta parte de la ciudad?</li>
+		<li>Este es un gran lugar para observar a la gente, ¿hay algún dueño de perro en el camino?</li>
+		<li>¿Piensas que los gatos son más inteligentes que los humanos? Y ¿qué pasa con las palomas?</li>
+		<li>Un nuevo vecino acaba de cruzar al otro lado de la calle, ¿puedes describirmelo?</li>
+		<li>¿Qué es lo que realmente te sorprende?</li>
+		<li>Háblame de algo desagradable que hayas comido.</li>
+		<li>Bien, así que ... ¿viste donde se supone que debo ir?</li>
+		<li>Hola, gracias por despertarme, puedes decirme cuanta gente anda por aquí ?</li>
+		<li>Hola, gracias por saludarme, puedes decirme cómo está el clima hoy?</li>
+		<li>Me han dicho que soy muy pintoresco, que te parece a ti?</li>
+		<li>Estoy intentando aprender algo de valenciano, puedes decirme alguna frase para decir?</li>
+	</random>
+</template>
+</category>
+
+<category>
+<pattern>^ Hola ^</pattern>
+<template><srai>*</srai></template>
+</category>
+
+
+</aiml>

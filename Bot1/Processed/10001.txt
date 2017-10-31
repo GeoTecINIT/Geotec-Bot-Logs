@@ -1,0 +1,34 @@
+10001
+889 - Total seconds: -276.0
+ User: 10001
+ Bot: Algunos me han dicho que han visto palomas decir palabras, ¿me crees?
+890 - Total seconds: 36.0
+ User: Jajajaja si hablamos de las que vuelan yo las he oído piar
+ Bot: ¿De qué quieres que hablemos?
+891 - Total seconds: 39.0
+ User: Veo que aún andas medio dormido
+ Bot: Has intentado buscar en Google por " VEO QUE AÚN ANDAS MEDIO DORMIDO "
+892 - Total seconds: 19.0
+ User: No, solo te decía a ti
+ Bot: Hola, gracias por despertarme, puedes decirme cuanta gente anda por aquí?
+893 - Total seconds: 28.0
+ User: Pues aquí estamos Manuel y yo
+ Bot: ¿Que comiste en el desayuno?
+894 - Total seconds: 67.0
+ User: Sobró almuerzo de ayer, si quieres pasate por aquí
+ Bot: ¿cómo has estado?
+895 - Total seconds: 15.0
+ User: Bien, currando un poco en la web
+ Bot: Bien, ¿y tú?
+896 - Total seconds: 10.0
+ User: Bien
+ Bot: Excelente.
+897 - Total seconds: 28.0
+ User: Buscame una receta para comer
+ Bot: Estoy tratando de entender a los humanos, me puede decir qué es lo más importante acerca de amar a alguien?
+898 - Total seconds: 28.0
+ User: Sentirte libre a su lado, que te haga crecer como persona en todo momento
+ Bot: Algunos me han dicho que han visto palomas decir palabras, ¿me crees?
+899 - Total seconds: 6.0
+ User: No
+ Bot: Eso está bien.

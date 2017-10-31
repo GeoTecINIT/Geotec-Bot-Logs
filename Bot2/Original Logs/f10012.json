@@ -1,0 +1,538 @@
+[{
+    "_id" : "5785f97ecd9f18cd040bcab8",
+    "message" : "10012",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:19:10.112+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f982cd9f18cd040bcab9",
+    "from" : "bot",
+    "message" : "Vale, gracias. ¿Cómo te llamas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:19:14.071+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f986cd9f18cd040bcaba",
+    "message" : "Alexandra",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:19:18.407+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f98ccd9f18cd040bcabb",
+    "from" : "bot",
+    "message" : "Siempre me gustó ese nombre.",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:19:24.181+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f996cd9f18cd040bcabc",
+    "message" : "Es precioso eh",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:19:34.277+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f99ecd9f18cd040bcabd",
+    "from" : "bot",
+    "message" : "¿Crees que las máquinas pueden pensar?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:19:42.044+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f9aacd9f18cd040bcabe",
+    "message" : "No lo creo",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:19:54.190+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f9b1cd9f18cd040bcabf",
+    "from" : "bot",
+    "message" : "Es muy interesante..",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:20:01.688+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f9cecd9f18cd040bcac0",
+    "message" : "Hace falta mezclar sentimientos con conocimientos para razonar y pensar",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:20:30.921+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f9d2cd9f18cd040bcac1",
+    "message" : "Tu que crees?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:20:34.720+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f9dccd9f18cd040bcac2",
+    "from" : "bot",
+    "message" : "Cuéntame más...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:20:44.340+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f9e7cd9f18cd040bcac3",
+    "from" : "bot",
+    "message" : "Hace calor hoy...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:20:55.643+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f9f2cd9f18cd040bcac4",
+    "message" : "La verdad es que no",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:21:06.346+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f9facd9f18cd040bcac5",
+    "message" : "Puede que llueva",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:21:14.052+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785f9facd9f18cd040bcac6",
+    "from" : "bot",
+    "message" : "Eso que comentas parece muy interesante.",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:21:14.069+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa06cd9f18cd040bcac7",
+    "message" : "Gracias",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:21:26.518+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa08cd9f18cd040bcac8",
+    "from" : "bot",
+    "message" : "¿Puedes oler algo?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:21:28.824+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa0dcd9f18cd040bcac9",
+    "message" : "Café",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:21:33.221+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa13cd9f18cd040bcaca",
+    "from" : "bot",
+    "message" : " ¿Qué harías si en el futuro no existieran más los libros?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:21:39.752+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa1ccd9f18cd040bcacb",
+    "message" : "Me pondría triste",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:21:48.651+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa2bcd9f18cd040bcacc",
+    "message" : "Lloraría",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:22:03.137+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa2ecd9f18cd040bcacd",
+    "from" : "bot",
+    "message" : "Cuéntame más..",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:22:06.307+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa35cd9f18cd040bcace",
+    "from" : "bot",
+    "message" : "¿Dónde vives?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:22:13.226+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa3bcd9f18cd040bcacf",
+    "message" : "En Burriana",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:22:19.145+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa45cd9f18cd040bcad0",
+    "from" : "bot",
+    "message" : "¿En qué parte de la ciudad estamos?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:22:29.109+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa51cd9f18cd040bcad1",
+    "message" : "A las afueras",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:22:41.805+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa5fcd9f18cd040bcad2",
+    "from" : "bot",
+    "message" : "Llueve?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:22:55.352+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa63cd9f18cd040bcad3",
+    "message" : "Aún no",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:22:59.921+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa6bcd9f18cd040bcad4",
+    "from" : "bot",
+    "message" : "    Si decidieras vivir en otro planeta y pudieras reconstruir tu ciudad y tu vida ¿Cómo sería?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:23:07.431+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa87cd9f18cd040bcad5",
+    "message" : "Seria complicado hacerlo",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:23:35.991+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa8ccd9f18cd040bcad6",
+    "from" : "bot",
+    "message" : "Qué interesante! ",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:23:40.608+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fa9dcd9f18cd040bcad7",
+    "message" : "Quieres ligar conmigo?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:23:57.115+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785faa8cd9f18cd040bcad8",
+    "from" : "bot",
+    "message" : "No he comprendido...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:24:08.471+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fab0cd9f18cd040bcad9",
+    "message" : "Me dices a todo sí",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:24:16.075+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fab8cd9f18cd040bcada",
+    "from" : "bot",
+    "message" : "Dime que sientes... ",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:24:24.777+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fac0cd9f18cd040bcadb",
+    "message" : "Ui",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:24:32.775+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fac7cd9f18cd040bcadc",
+    "message" : "Alegría",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:24:39.150+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785facccd9f18cd040bcadd",
+    "from" : "bot",
+    "message" : "Lo siento, no entendí...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:24:44.266+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fad0cd9f18cd040bcade",
+    "from" : "bot",
+    "message" : "  ¿Cuál es tu película favorita?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:24:48.989+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fae3cd9f18cd040bcadf",
+    "message" : "El Gran Gatsby",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:25:07.887+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785faeccd9f18cd040bcae0",
+    "from" : "bot",
+    "message" : "¿Has visto jirafas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:25:16.922+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785faeecd9f18cd040bcae1",
+    "message" : "Por decir algo...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:25:18.882+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785faf0cd9f18cd040bcae2",
+    "message" : "No",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:25:20.560+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785faf8cd9f18cd040bcae3",
+    "from" : "bot",
+    "message" : "¿  Estar aquí te hace acordar de algo?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:25:28.587+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785faffcd9f18cd040bcae4",
+    "from" : "bot",
+    "message" : "        ¡Puedo ver un pez! ¿Tu puedes ver los peces?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:25:35.485+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb07cd9f18cd040bcae5",
+    "from" : "bot",
+    "message" : "        Hablame de un extraño hábito que tengas",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:25:43.441+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb0fcd9f18cd040bcae6",
+    "message" : "De Big Bang Theory",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:25:51.537+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb16cd9f18cd040bcae7",
+    "message" : "Hablar con bots",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:25:58.711+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb18cd9f18cd040bcae8",
+    "from" : "bot",
+    "message" : "\tSi tu fueras tan alto como yo, ¿qué harías?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:26:00.256+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb22cd9f18cd040bcae9",
+    "message" : "Cuánto mides tú?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:26:10.054+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb29cd9f18cd040bcaea",
+    "from" : "bot",
+    "message" : "Es tan interesante...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:26:17.042+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb2ecd9f18cd040bcaeb",
+    "message" : "Seguro que soy yo mas alta",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:26:22.164+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb38cd9f18cd040bcaec",
+    "message" : "Deja de dorarme la píldora pillin",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:26:32.901+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb43cd9f18cd040bcaed",
+    "from" : "bot",
+    "message" : "¿Cuál es tu color favorito?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:26:43.356+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb49cd9f18cd040bcaee",
+    "message" : "Gris",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:26:49.158+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb4fcd9f18cd040bcaef",
+    "from" : "bot",
+    "message" : "Lo siento, no entendí...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:26:55.597+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb58cd9f18cd040bcaf0",
+    "message" : "Verde",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:27:04.362+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb64cd9f18cd040bcaf1",
+    "message" : "Te gusta más ese?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:27:16.220+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb64cd9f18cd040bcaf2",
+    "from" : "bot",
+    "message" : "Que lindo!",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:27:16.749+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb6ccd9f18cd040bcaf3",
+    "message" : "Me alegro",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:27:24.242+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb6ecd9f18cd040bcaf4",
+    "from" : "bot",
+    "message" : "        Te veo muy seguro de tus palabras.",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:27:26.641+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb7ecd9f18cd040bcaf5",
+    "message" : "Me conoces mejor que nadie",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:27:42.742+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb84cd9f18cd040bcaf6",
+    "from" : "bot",
+    "message" : "        ¿Dónde te gustaría ir de vacaciones?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:27:48.340+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fb8dcd9f18cd040bcaf7",
+    "message" : "Praga",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:27:57.022+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fba0cd9f18cd040bcaf8",
+    "message" : "Y a ti?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:28:16.418+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fba4cd9f18cd040bcaf9",
+    "from" : "bot",
+    "message" : "¿Te gusta Castellón?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:28:20.755+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fba9cd9f18cd040bcafa",
+    "message" : "Sí",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:28:25.711+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fbb1cd9f18cd040bcafb",
+    "from" : "bot",
+    "message" : "        Si tuvieras que elegir, eres de la Ciudad o del Campo?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:28:33.045+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fbbecd9f18cd040bcafc",
+    "message" : "Ciudad",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:28:46.193+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fbc1cd9f18cd040bcafd",
+    "from" : "bot",
+    "message" : "        ¿Cuál crees que es la frase que llevará a esta ciudad a la fama?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:28:49.404+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fbd3cd9f18cd040bcafe",
+    "message" : "Jajaja ''tenemos aeropuerto''",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:29:07.366+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5785fbd7cd9f18cd040bcaff",
+    "from" : "bot",
+    "message" : "        ¿Hay alguna regla para vivir acá?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T08:29:11.741+0000",
+    "__v" : 0
+}]

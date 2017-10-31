@@ -1,0 +1,22 @@
+10006
+2cc9 - Total seconds: -423.0 user: 10006
+2cca - Total seconds: 4.0 : Vale, gracias. ¿Cómo te llamas?
+2ccb - Total seconds: 9.0 user: Hola Carolina
+2ccc - Total seconds: 6.0 : Siempre me gustó ese nombre.
+2ccd - Total seconds: 5.0 user: Gracias
+2cce - Total seconds: 10.0 : ¿Dónde vives?
+2ccf - Total seconds: 12.0 user: Bogota
+2cd0 - Total seconds: 15.0 : Cuéntame más sobre eso...
+2cd1 - Total seconds: 27.0 user: Es una ciudad interesante y agitada
+2cd2 - Total seconds: 10.0 : ¿Te gusta vivir en una ciudad?
+2cd3 - Total seconds: 46.0 user: Me gusta sus puntos de interes y puedes encontrar de todo
+2cd4 - Total seconds: 31.0 user: Y variedad gastronomica
+2cd5 - Total seconds: 4.0 :         ¿Dónde fuiste de vacaciones la última vez?
+2cd6 - Total seconds: 25.0 user: A Castellon
+2cd7 - Total seconds: 28.0 : Yo vivo en Castellón
+2cd8 - Total seconds: 21.0 user: Y que hay de interesante?
+2cd9 - Total seconds: 15.0 : Me gusta la playa. ¿Has ido?
+2cda - Total seconds: 22.0 user: Si bien
+2cdb - Total seconds: 12.0 : Qué interesante! 
+2cdc - Total seconds: 77.0 user: Que actividades hay?
+2cdd - Total seconds: 44.0 :         ¿Cuál es tu mejor recuerdo de infancia?

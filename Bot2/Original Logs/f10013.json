@@ -1,0 +1,283 @@
+[{
+    "_id" : "578cbb8a0e4441118925ee56",
+    "message" : "10013",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:20:42.988+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbb8d0e4441118925ee57",
+    "from" : "bot",
+    "message" : "Vale, gracias. ¿Cómo te llamas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:20:45.805+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbb920e4441118925ee58",
+    "message" : "Eva",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:20:50.303+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbb990e4441118925ee59",
+    "message" : "Y tu?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:20:57.144+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbb9b0e4441118925ee5a",
+    "from" : "bot",
+    "message" : "Siempre me gustó ese nombre.",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:20:59.695+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbb9e0e4441118925ee5b",
+    "from" : "bot",
+    "message" : "Sara.",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:21:02.941+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbbac0e4441118925ee5c",
+    "message" : "Me alegro de conocerte Sara",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:21:16.648+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbbbc0e4441118925ee5d",
+    "from" : "bot",
+    "message" : "Encantada también. ",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:21:32.422+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbbcc0e4441118925ee5e",
+    "message" : "Qué haces por aquí?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:21:48.075+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbbe10e4441118925ee5f",
+    "from" : "bot",
+    "message" : "Hablando contigo. ¿De dónde eres?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:22:09.661+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbbfe0e4441118925ee60",
+    "message" : "Soy de Castellón. Nací aquí aunque mis padres son de andalucía",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:22:38.422+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbc0b0e4441118925ee61",
+    "from" : "bot",
+    "message" : "¿En qué parte de la ciudad estamos?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:22:51.299+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbc1a0e4441118925ee62",
+    "message" : "En la universidad Jaime I",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:23:06.374+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbc300e4441118925ee63",
+    "from" : "bot",
+    "message" : "¿Cerca de la montaña o playa?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:23:28.748+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbc370e4441118925ee64",
+    "message" : "En medio ajjaja",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:23:35.257+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbc430e4441118925ee65",
+    "from" : "bot",
+    "message" : "¿Dónde te fuiste por última vez de vacaciones?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:23:47.599+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbc4d0e4441118925ee66",
+    "message" : "A Calpe",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:23:57.089+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbc5e0e4441118925ee67",
+    "from" : "bot",
+    "message" : "        Eso que comentas parece muy interesante.",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:24:14.646+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbc730e4441118925ee68",
+    "message" : "Bueno. Es un sitio de playa tranquilito con algunas calas",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:24:35.873+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbc800e4441118925ee69",
+    "message" : "Y subí al peñón d'Ifac",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:24:48.299+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbc850e4441118925ee6a",
+    "from" : "bot",
+    "message" : "¿Te gusta la playa?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:24:53.085+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbc9b0e4441118925ee6b",
+    "message" : "Sí. Mucho",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:25:15.697+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbca70e4441118925ee6c",
+    "from" : "bot",
+    "message" : "Yo nunca he ido...",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:25:27.482+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbcb30e4441118925ee6d",
+    "message" : "Te gustar día seguro Sara",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:25:39.777+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbcbc0e4441118925ee6e",
+    "message" : "Gustaría",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:25:48.105+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbcc80e4441118925ee6f",
+    "from" : "bot",
+    "message" : "  ¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?  Eso que comentas parece muy interesante.",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:26:00.119+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbcef0e4441118925ee70",
+    "message" : "Hablo castellano, valenciano, inglés y algo de francés",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:26:39.455+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbd050e4441118925ee71",
+    "from" : "bot",
+    "message" : "Me gusta...",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:27:01.649+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbd0f0e4441118925ee72",
+    "message" : "Si todos pudieramos comunicar nos en la misma lengua todo seria mas fácil",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:27:11.993+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbd260e4441118925ee73",
+    "from" : "bot",
+    "message" : "        ¿Cuál es tu película favorita?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:27:34.718+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbd2f0e4441118925ee74",
+    "message" : "La vida es bella",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:27:43.674+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbd410e4441118925ee75",
+    "message" : "Y la tuya?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:28:01.660+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbd470e4441118925ee76",
+    "from" : "bot",
+    "message" : "¿Que recuerdo lindo tienes de tu infancia?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:28:07.289+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbd590e4441118925ee77",
+    "message" : "Cual es tu película favorita?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:28:25.615+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbd710e4441118925ee78",
+    "message" : "No con testas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:28:49.403+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbd7f0e4441118925ee79",
+    "from" : "bot",
+    "message" : "No he ido al cine. ¿Qué película me recomiendas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:29:03.134+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbd9b0e4441118925ee7a",
+    "message" : "La de Dory. Yo vida buscando a Nemo y si la viste también te gustará",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:29:31.713+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578cbda70e4441118925ee7b",
+    "from" : "bot",
+    "message" : "Eso que comentas me parece muy interesante...",
+    "chatid" : 263536194,
+    "time" : "2016-07-18T11:29:43.470+0000",
+    "__v" : 0
+}]

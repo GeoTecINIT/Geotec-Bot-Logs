@@ -1,0 +1,55 @@
+10003
+829 - Total seconds: -514.0
+ User: 10003
+ Bot: Si pudieras viajar en el tiempo, ¿a donde te gustaría ir?
+830 - Total seconds: 25.0
+ User: No me gustaría
+ Bot: ¿Comerías carne hecha en un laboratorio?
+831 - Total seconds: 70.0
+ User: Me gustan. Quieres que vaya ahora?
+ Bot: Excelente.
+832 - Total seconds: 31.0
+ User: Voy?
+ Bot: Si tu fueras tan alto como yo, ¿qué harías?
+833 - Total seconds: 82.0
+ User: Te he puesto en un aprieto,EH?
+ Bot: Estoy intentando aprender algo de valenciano, puedes decirme alguna frase para decir?
+834 - Total seconds: 14.0
+ User: Bona nit
+ Bot: ¿Cuál es tu película favorita?
+835 - Total seconds: 20.0
+ User: Cinema Paradiso
+ Bot: No te entiendo. Espero que Manuel mejore mi base de datos.
+836 - Total seconds: 37.0
+ User: Pues sí porque es una película muy buena 
+ Bot: Mi película favorita es "Robocop".
+837 - Total seconds: 9.0
+ User: Te va
+ Bot: Si tu tiempo fuera la moneda en la economía global... en que lo gastarías?
+838 - Total seconds: 30.0
+ User: En reirme
+ Bot: ¿Qué harías si en el futuro no existieran más los libros?
+839 - Total seconds: 27.0
+ User: No podría vivir sin libros
+ Bot: ¿Qué harías si en un viaje encontrás una nave extraterrestre?
+840 - Total seconds: 27.0
+ User: No me lo creo
+ Bot: Yo también lo creo.
+841 - Total seconds: 13.0
+ User: Yo no
+ Bot: Puedes explicarme mejor eso? No lo acabo de entender.
+842 - Total seconds: 32.0
+ User: No es posible encontrar una nave extraterrestre
+ Bot: Por supuesto que es posible.
+843 - Total seconds: 30.0
+ User: A sí? Te has encontrado alguna?
+ Bot: ¿Dónde fuiste de vacaciones la última vez?
+844 - Total seconds: 31.0
+ User: A Bélgica
+ Bot: Cuando fue la última vez que envías una carta?
+845 - Total seconds: 31.0
+ User: Hace 1 mes. Más o menosprecio
+ Bot: Uno.
+846 - Total seconds: 5.0
+ User: Menos
+ Bot: Vale.

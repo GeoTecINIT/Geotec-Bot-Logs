@@ -1,0 +1,329 @@
+[{
+    "_id" : "578618acc60be454085e9222",
+    "message" : "10002",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:32:12.350+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578618adc60be454085e9223",
+    "from" : "bot",
+    "message" : "Vale, gracias. ¿Cómo te llamas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:32:13.924+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578618b8c60be454085e9224",
+    "message" : "Arantxa",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:32:24.433+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578618bac60be454085e9225",
+    "from" : "bot",
+    "message" : "Siempre me gustó ese nombre.",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:32:26.049+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578618c3c60be454085e9226",
+    "message" : "Gracias",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:32:35.823+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578618cac60be454085e9227",
+    "from" : "bot",
+    "message" : "        ¿Cuál es tu película favorita?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:32:42.611+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578618d9c60be454085e9228",
+    "message" : "Piratas del Caribe",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:32:57.317+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578618e5c60be454085e9229",
+    "from" : "bot",
+    "message" : "¿Dónde te gustaría ir de vacaciones?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:33:09.746+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578618f5c60be454085e922a",
+    "message" : "A cualquier parte",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:33:25.966+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578618ffc60be454085e922b",
+    "from" : "bot",
+    "message" : "Que interesante...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:33:35.857+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786190cc60be454085e922c",
+    "message" : "Pero siempre he querido ir a EEUU",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:33:48.075+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861918c60be454085e922d",
+    "from" : "bot",
+    "message" : "¿En barco o avión?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:34:00.817+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861922c60be454085e922e",
+    "message" : "Avión",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:34:10.046+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861928c60be454085e922f",
+    "from" : "bot",
+    "message" : "        ¿Qué harías si en un viaje encuentras una nave extraterrestre?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:34:16.074+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861945c60be454085e9230",
+    "message" : "Iría a ver si hay extraterrestres",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:34:45.404+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5786194bc60be454085e9231",
+    "from" : "bot",
+    "message" : "Cuéntame más...   ",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:34:51.541+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861976c60be454085e9232",
+    "message" : "Me daría un poco de miedo",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:35:34.359+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861983c60be454085e9233",
+    "message" : "Pero también curiosidad",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:35:47.961+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861988c60be454085e9234",
+    "from" : "bot",
+    "message" : "¿En qué parte de la ciudad estamos?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:35:52.780+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861997c60be454085e9235",
+    "from" : "bot",
+    "message" : "Yo nunca he viajado...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:36:07.600+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578619a7c60be454085e9236",
+    "message" : "Yo en la universidad, tu no lose",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:36:23.403+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578619b2c60be454085e9237",
+    "from" : "bot",
+    "message" : "Lo siento, no entendí..",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:36:34.512+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578619d2c60be454085e9238",
+    "message" : "Que estoy en la universidad",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:37:06.394+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578619d9c60be454085e9239",
+    "from" : "bot",
+    "message" : "  He estado aquí por 25 años. ¿Cuánto tiempo has estado en la ciudad?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:37:13.842+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578619ecc60be454085e923a",
+    "message" : "Desde que nací",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:37:32.113+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a0cc60be454085e923b",
+    "from" : "bot",
+    "message" : "He visto muchas madres por aquí...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:38:04.982+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a1cc60be454085e923c",
+    "message" : "Madres?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:38:20.157+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a23c60be454085e923d",
+    "from" : "bot",
+    "message" : "        ¿Piensas que es seguro para saltar en paracaídas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:38:27.441+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a2bc60be454085e923e",
+    "message" : "Si",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:38:35.553+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a34c60be454085e923f",
+    "from" : "bot",
+    "message" : "        ¿Prefieres los perros o los gatos?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:38:44.251+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a3bc60be454085e9240",
+    "message" : "Los gatos",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:38:51.368+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a49c60be454085e9241",
+    "from" : "bot",
+    "message" : "¿Has conocido un gato famoso?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:39:05.671+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a56c60be454085e9242",
+    "message" : "Garfild supongo jajaja",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:39:18.721+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a5ec60be454085e9243",
+    "from" : "bot",
+    "message" : "Cuéntame mas...",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:39:26.737+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a6bc60be454085e9244",
+    "message" : "Era una broma",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:39:39.951+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a70c60be454085e9245",
+    "from" : "bot",
+    "message" : "        ¿Has visto muchos gnomos por aquí?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:39:44.766+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a7dc60be454085e9246",
+    "message" : "😒",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:39:57.071+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861a85c60be454085e9247",
+    "from" : "bot",
+    "message" : "        Estaba pensando en comenzar un hobby - ¿tienes uno?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:40:05.510+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861ac5c60be454085e9248",
+    "message" : "A verces monto vídeos de fotos con mis amigos",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:41:09.333+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861acec60be454085e9249",
+    "message" : "Pero ya no tengo tiempo",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:41:18.165+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861ad4c60be454085e924a",
+    "from" : "bot",
+    "message" : "¿Quieres sacar fotos de la ciudad?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:41:24.838+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861ae7c60be454085e924b",
+    "message" : "Nose  no creo",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:41:43.860+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861af3c60be454085e924c",
+    "from" : "bot",
+    "message" : "        ¿Qué es lo más extraño que has oído por casualidad?",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:41:55.074+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57861af3c60be454085e924d",
+    "message" : "Siempre estoy aqui",
+    "chatid" : 263536194,
+    "time" : "2016-07-13T10:41:55.363+0000",
+    "__v" : 0
+}]

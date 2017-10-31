@@ -1,0 +1,33 @@
+10011
+6abb - Total seconds: -573.0 user: 10011
+6abc - Total seconds: 5.0 bot: Vale, gracias. ¿Cómo te llamas?
+6abd - Total seconds: 6.0 user: Fernando
+6abe - Total seconds: 8.0 bot: Siempre me gustó ese nombre.
+6abf - Total seconds: 10.0 user: Que bueno
+6ac0 - Total seconds: 9.0 bot: ¿Cuál es tu película favorita?
+6ac1 - Total seconds: 15.0 user: Los vengadores
+6ac2 - Total seconds: 13.0 bot: Cuéntame más...   
+6ac3 - Total seconds: 25.0 user: Hay muchas pelis que me gustan sobre todo las de Mar el
+6ac4 - Total seconds: 6.0 user: Marvel
+6ac5 - Total seconds: 28.0 bot:  ¿Dónde te gustaría ir de vacaciones?
+6ac6 - Total seconds: 9.0 user: Australia
+6ac7 - Total seconds: 10.0 bot: Eso que comentas parece muy interesante.
+6ac8 - Total seconds: 33.0 user: Es, existen gran cantidad de islas y lugares increíbles
+6ac9 - Total seconds: 28.0 bot: ¿Qué harías si en un viaje encuentras una nave extraterrestre?
+6aca - Total seconds: 10.0 user: Corro
+6acb - Total seconds: 35.0 bot:  ¿Puedes ver algo de basura cerca?
+6acc - Total seconds: 8.0 user: No
+6acd - Total seconds: 4.0 user: Por que
+6ace - Total seconds: 7.0 bot: ¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?
+6acf - Total seconds: 89.0 user: Sería muy útil en términos fe educación y turismo además de romper varias barrer, sin embargo una de las mejores cosas del mundo es su diversidad por lo que prefiero que sea como es
+6ad0 - Total seconds: 46.0 bot: ¿Has visto muchas jirafas por aquí?
+6ad1 - Total seconds: 12.0 user: No
+6ad2 - Total seconds: 3.0 user: Ninguna
+6ad3 - Total seconds: 15.0 bot: ¿Cómo has llegado hasta aquí?
+6ad4 - Total seconds: 13.0 user: En bicicleta
+6ad5 - Total seconds: 17.0 bot: ¿En qué parte de la ciudad estamos?
+6ad6 - Total seconds: 39.0 user: En la universidad que es al nor occidente de Castellón
+6ad7 - Total seconds: 31.0 bot:  ¿Crees que la ciudad debe tener mayor conciencia ambiental en algún sentido?
+6ad8 - Total seconds: 19.0 user: Si pero la veo muy bien
+6ad9 - Total seconds: 9.0 user: Mas bicicletas
+6ada - Total seconds: 11.0 bot:  ¿Cuál es tu sonido favorito?

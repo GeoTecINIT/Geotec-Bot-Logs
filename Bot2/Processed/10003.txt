@@ -1,0 +1,56 @@
+10003
+ca7f - Total seconds: -649.0 user: 10003
+ca80 - Total seconds: 3.0 bot: Vale, gracias. ¿Cómo te llamas?
+ca81 - Total seconds: 15.0 user: Estefanía
+ca82 - Total seconds: 2.0 bot: Siempre me gustó ese nombre.
+ca83 - Total seconds: 15.0 user: Yo lo veo un poco largo
+ca84 - Total seconds: 4.0 bot:   ¿Cuál es tu mejor recuerdo de infancia?
+ca85 - Total seconds: 25.0 user: Lo tengo que pensar,espera
+ca86 - Total seconds: 5.0 bot: Es muy emocionante...
+ca87 - Total seconds: 27.0 user: Supongo que jugar en verano por la calle
+ca88 - Total seconds: 9.0 bot: En qué parte de la ciudad estamos?
+ca89 - Total seconds: 14.0 user: Creo que al oeste
+ca8a - Total seconds: 14.0 bot: Eso que comentas me parece interesante...
+ca8b - Total seconds: 11.0 user: Por qué?
+ca8c - Total seconds: 8.0 bot:    ¿Dónde te gustaría ir de vacaciones?
+ca8d - Total seconds: 12.0 user: A Islandia
+ca8e - Total seconds: 10.0 bot: Increíble..
+ca8f - Total seconds: 6.0 user: Yes
+ca90 - Total seconds: 9.0 bot:    ¿Cuál es tu deporte favorito?
+ca91 - Total seconds: 18.0 user: Para practicar?
+ca92 - Total seconds: 8.0 bot: He estado aquí por 25 años. ¿Cuánto tiempo has estado en la ciudad?
+ca93 - Total seconds: 31.0 user: En torno a 16 años o así
+ca94 - Total seconds: 12.0 bot: Cuéntame mas...
+ca95 - Total seconds: 9.0 user: Desde 1998
+ca96 - Total seconds: 7.0 bot:  Estoy tratando de entender a los humanos, me puede decir qué es lo más importante acerca de amar a alguien?
+ca97 - Total seconds: 14.0 user: Comprenderlo
+ca98 - Total seconds: 9.0 bot:         Qué quieres decir con eso? Cuál sería la respuesta correcta?
+ca99 - Total seconds: 26.0 user: Dejarle ser sí mismo
+ca9a - Total seconds: 6.0 bot: ¿Puedes oler algo?
+ca9b - Total seconds: 14.0 user: Ahora mismo,no
+ca9c - Total seconds: 6.0 bot: ¿Eres un madrugador o noctámbulo?
+ca9d - Total seconds: 15.0 user: Más bien lo primero
+ca9e - Total seconds: 14.0 bot: Ha estado lloviendo?
+ca9f - Total seconds: 15.0 user: No, pero hay nubes
+caa0 - Total seconds: 11.0 bot: ¿Cafe frio o caliente?
+caa1 - Total seconds: 11.0 user: Templado
+caa2 - Total seconds: 9.0 bot: Es muy lindo...
+caa3 - Total seconds: 10.0 user: El qué?
+caa4 - Total seconds: 9.0 bot:         ¿Cuál es tu deporte favorito?
+caa5 - Total seconds: 13.0 user: Para practicar?
+caa6 - Total seconds: 14.0 bot: ¿Fútbol o golf?
+caa7 - Total seconds: 13.0 user: Fútbol
+caa8 - Total seconds: 9.0 bot: ¿Has visto a esa rana?
+caa9 - Total seconds: 9.0 user: Croac
+caaa - Total seconds: 5.0 bot:         Qué quieres decir con eso? Cuál sería la respuesta correcta?
+caab - Total seconds: 20.0 user: Croac,croac
+caac - Total seconds: 16.0 bot: Lo siento. No he entendido...
+caad - Total seconds: 17.0 user: Jajsja😂😂😂😂😂
+caae - Total seconds: 6.0 bot:         ¿Qué harías si en un viaje encontrás una nave extraterrestre?
+caaf - Total seconds: 13.0 user: Otra vez?
+cab0 - Total seconds: 11.0 bot: Es muy interesante..
+cab1 - Total seconds: 13.0 user: Tu crees?
+cab2 - Total seconds: 6.0 bot:         ¿Por qué no me explicas un chiste?
+cab3 - Total seconds: 16.0 user: Soy muy mala con los chistes
+cab4 - Total seconds: 19.0 user: Adeu
+cab5 - Total seconds: 6.0 bot: Adiós.

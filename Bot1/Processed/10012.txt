@@ -1,0 +1,127 @@
+10012
+847 - Total seconds: -600.0
+ User: 10012
+ Bot: ¿Cuanto es lo mas sediento que has estado nunca en tu vida?
+848 - Total seconds: 34.0
+ User: Uff diría que una vez en la playa cuando se me olvido el agua y estaba todo cerrado
+ Bot: ¿Cuanto es lo mas sediento que has estado nunca en tu vida?
+849 - Total seconds: 12.0
+ User: Mucho
+ Bot: Seguro que no será tanto.
+850 - Total seconds: 21.0
+ User: Sí era una sensacion horrible
+ Bot: ¿Dónde fuiste de vacaciones la última vez?
+851 - Total seconds: 8.0
+ User: A Roma
+ Bot: Eso tiene relación con el turismo por Barcelona?
+852 - Total seconds: 15.0
+ User: No aunque voy mucho a Barcelona
+ Bot: ¿Por qué crees que es demasiado?
+853 - Total seconds: 13.0
+ User: ¿El que?
+ Bot: ¿Comerías carne hecha en un laboratorio?
+854 - Total seconds: 17.0
+ User: No creo aunque quizás ya lo hago
+ Bot: Vale.
+855 - Total seconds: 10.0
+ User: 
+ Bot: Lo siento, no te comprendí.
+856 - Total seconds: 11.0
+ User: Cómo te llamas?
+ Bot: undefined.
+857 - Total seconds: 9.0
+ User: Bonito nombre
+ Bot: Qué harías si te encuentras en una nave espacial y su computadora no te deja regresar a salvo?
+858 - Total seconds: 13.0
+ User: Entrar en pánico
+ Bot: ¿Cuándo fue la última vez que viste a tu mejor amigo?
+859 - Total seconds: 10.0
+ User: Ayer
+ Bot: ¿Qué harías si en un viaje encontrás una nave extraterrestre?
+860 - Total seconds: 13.0
+ User: Dejarla donde está
+ Bot: Has intentado buscar en Google por " DEJARLA DONDE ESTÁ "
+861 - Total seconds: 10.0
+ User: No
+ Bot: Vale, si tú lo dices.
+862 - Total seconds: 11.0
+ User: Será por algo
+ Bot: Algo es algo dijo un calvo.
+863 - Total seconds: 13.0
+ User: Eres gracioso
+ Bot: Te veo muy seguro de tus palabras.
+864 - Total seconds: 12.0
+ User: Lo intento
+ Bot: ¿Cúal es tu actriz favorita?
+865 - Total seconds: 15.0
+ User: No sé
+ Bot: ¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?
+866 - Total seconds: 43.0
+ User: 4 diferentes. Creo que sería poco enriquecedor. Me parece que se intentó y no funcionó
+ Bot: Yo también lo creo.
+867 - Total seconds: 7.0
+ User: Me alegro
+ Bot: Celebro que pienses así.
+868 - Total seconds: 7.0
+ User: Brindemos
+ Bot: Qué harías si te encuentras en una nave espacial y su computadora no te deja regresar a salvo?
+869 - Total seconds: 13.0
+ User: Entrar en pánico otra vez
+ Bot: ¿Has visto los blogs de gatos? ¿Y los gatos en instagram?
+870 - Total seconds: 7.0
+ User: No.
+ Bot: Entonces?
+871 - Total seconds: 12.0
+ User: Debería hacerlo?
+ Bot: ¿Crees que las máquinas son inteligentes?
+872 - Total seconds: 10.0
+ User: Algunas
+ Bot: ¿Te gustaría dejar una dedicación a alguien?
+873 - Total seconds: 38.0
+ User: Le dedico este premio a mi familia y amigos. Un beso Manuel y Lu por esta oportunidad
+ Bot: ¡Tengo infinidad de amigos!
+874 - Total seconds: 13.0
+ User: Enhorabuena
+ Bot: Eso tiene relación con el turismo por Barcelona?
+875 - Total seconds: 14.0
+ User: Bueno tengo amigos en Barcelona
+ Bot: ¡Tengo infinidad de amigos!
+876 - Total seconds: 9.0
+ User: Ya lo dijiste
+ Bot: Bien.
+877 - Total seconds: 7.0
+ User: Estupendo
+ Bot: Lo siento pero no te entendí. Podrías indicarme cuál sería la respuesta correcta?
+878 - Total seconds: 10.0
+ User: Sí
+ Bot: Eso lo has dicho muy decidido.
+879 - Total seconds: 8.0
+ User: Gracias
+ Bot: Un placer
+880 - Total seconds: 24.0
+ User: No quieres hablar del tema EH...
+ Bot: ¿En qué puedo ayudarte?
+881 - Total seconds: 13.0
+ User: Dime si va a llover hoy en Castellón
+ Bot: MUCHO GUSTO SI VA A LLOVER HOY EN CASTELLÓN
+882 - Total seconds: 13.0
+ User: No me ayudas así
+ Bot: ¿cómo has estado?
+883 - Total seconds: 8.0
+ User: Muy vaga
+ Bot: ¿Qué harías si en un viaje encontrás una nave extraterrestre?
+884 - Total seconds: 8.0
+ User: Dejarla
+ Bot: ¿Crees que hay vida después de la muerte?
+885 - Total seconds: 32.0
+ User: Estás cansado?
+ Bot: ¿Crees que las computadoras serán más inteligentes que los humanos? Si sucede ¿Que crees que pasaría?
+886 - Total seconds: 16.0
+ User: No lo creo
+ Bot: Yo también lo creo.
+887 - Total seconds: 17.0
+ User: Siempre me das la razón.
+ Bot: ¿Cuál es tu tipo favorito de vacaciones?
+888 - Total seconds: 24.0
+ User: Descanso, un poco de turismo, buena comida...
+ Bot: Qué quieres decir con eso? Cuál sería la respuesta correcta?

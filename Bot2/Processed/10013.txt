@@ -1,0 +1,39 @@
+10013
+ee56 - Total seconds: -541.0 user: 10013
+ee57 - Total seconds: 3.0 bot: Vale, gracias. ¿Cómo te llamas?
+ee58 - Total seconds: 5.0 user: Eva
+ee59 - Total seconds: 7.0 user: Y tu?
+ee5a - Total seconds: 2.0 bot: Siempre me gustó ese nombre.
+ee5b - Total seconds: 3.0 bot: Sara.
+ee5c - Total seconds: 14.0 user: Me alegro de conocerte Sara
+ee5d - Total seconds: 16.0 bot: Encantada también. 
+ee5e - Total seconds: 16.0 user: Qué haces por aquí?
+ee5f - Total seconds: 21.0 bot: Hablando contigo. ¿De dónde eres?
+ee60 - Total seconds: 29.0 user: Soy de Castellón. Nací aquí aunque mis padres son de andalucía
+ee61 - Total seconds: 13.0 bot: ¿En qué parte de la ciudad estamos?
+ee62 - Total seconds: 15.0 user: En la universidad Jaime I
+ee63 - Total seconds: 22.0 bot: ¿Cerca de la montaña o playa?
+ee64 - Total seconds: 7.0 user: En medio ajjaja
+ee65 - Total seconds: 12.0 bot: ¿Dónde te fuiste por última vez de vacaciones?
+ee66 - Total seconds: 10.0 user: A Calpe
+ee67 - Total seconds: 17.0 bot:         Eso que comentas parece muy interesante.
+ee68 - Total seconds: 21.0 user: Bueno. Es un sitio de playa tranquilito con algunas calas
+ee69 - Total seconds: 13.0 user: Y subí al peñón d'Ifac
+ee6a - Total seconds: 5.0 bot: ¿Te gusta la playa?
+ee6b - Total seconds: 22.0 user: Sí. Mucho
+ee6c - Total seconds: 12.0 bot: Yo nunca he ido...
+ee6d - Total seconds: 12.0 user: Te gustar día seguro Sara
+ee6e - Total seconds: 9.0 user: Gustaría
+ee6f - Total seconds: 12.0 bot:   ¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?  Eso que comentas parece muy interesante.
+ee70 - Total seconds: 39.0 user: Hablo castellano, valenciano, inglés y algo de francés
+ee71 - Total seconds: 22.0 bot: Me gusta...
+ee72 - Total seconds: 10.0 user: Si todos pudieramos comunicar nos en la misma lengua todo seria mas fácil
+ee73 - Total seconds: 23.0 bot:         ¿Cuál es tu película favorita?
+ee74 - Total seconds: 9.0 user: La vida es bella
+ee75 - Total seconds: 18.0 user: Y la tuya?
+ee76 - Total seconds: 6.0 bot: ¿Que recuerdo lindo tienes de tu infancia?
+ee77 - Total seconds: 18.0 user: Cual es tu película favorita?
+ee78 - Total seconds: 24.0 user: No con testas?
+ee79 - Total seconds: 14.0 bot: No he ido al cine. ¿Qué película me recomiendas?
+ee7a - Total seconds: 28.0 user: La de Dory. Yo vida buscando a Nemo y si la viste también te gustará
+ee7b - Total seconds: 12.0 bot: Eso que comentas me parece muy interesante...

@@ -1,0 +1,75 @@
+10007
+9250 - Total seconds: -615.0 user: 10009
+9251 - Total seconds: 3.0 bot: Vale, gracias. ¿Cómo te llamas?
+9252 - Total seconds: 6.0 user: Carolina
+9253 - Total seconds: 3.0 bot: Siempre me gustó ese nombre.
+9254 - Total seconds: 9.0 user: Si, es muy bonito
+9255 - Total seconds: 5.0 user: Y tu?
+9256 - Total seconds: 1.0 bot:         ¿Cuál es tu mejor recuerdo de infancia?
+9257 - Total seconds: 4.0 bot: Sara..
+9258 - Total seconds: 19.0 user: Un oso de peluche que tuve, me encantaba, es mas aun lo tengo
+9259 - Total seconds: 8.0 user: Fue un regalo de mis papás
+925a - Total seconds: 5.0 bot: Me gustaría que siguieras hablando de ello..
+925b - Total seconds: 6.0 user: Claro
+925c - Total seconds: 17.0 bot: ¿Has visto osos por aquí?
+925d - Total seconds: 4.0 user: Era muy peludito, café y tenia un corbatín rojo
+925e - Total seconds: 7.0 user: Y repetía palabras
+925f - Total seconds: 9.0 user: Muy tierno
+9260 - Total seconds: 9.0 user: No por acá no,
+9261 - Total seconds: 4.0 user: Reales no
+9262 - Total seconds: 5.0 bot:         ¿Cuál es tu color favorito?
+9263 - Total seconds: 8.0 user: Azul
+9264 - Total seconds: 6.0 bot:         Si los animales pudieran hablar nuestro idioma, ¿sería bonito?
+9265 - Total seconds: 16.0 user: No, ellos tienen su manera de comunicar
+9266 - Total seconds: 5.0 user: Y eso es especial
+9267 - Total seconds: 3.0 bot: Que interesante!
+9268 - Total seconds: 2.0 user: Ellos se hacen entender así
+9269 - Total seconds: 8.0 bot:         ¿Cómo ha cambiado la ciudad, desde que tu la conoces?
+926a - Total seconds: 27.0 user: Pues ahora están construyendo un nuevo edificio en la Universidad
+926b - Total seconds: 15.0 bot: ¿En qué parte de la ciudad estamos?
+926c - Total seconds: 2.0 user: Y un edificio cerca a mi casa ya lo terminaron de construir
+926d - Total seconds: 14.0 bot:         He estado aquí por 25 años. ¿Cuánto tiempo has estado en la ciudad?
+926e - Total seconds: 2.0 user: En la Universidad
+926f - Total seconds: 7.0 user: 9 meses
+9270 - Total seconds: 8.0 user: En Castellón de la Plana
+9271 - Total seconds: 8.0 bot:         ¿Cuál crees que es la frase que llevará a esta ciudad a la fama?
+9272 - Total seconds: 17.0 user: Las playas
+9273 - Total seconds: 9.0 bot: ¿Llueve?
+9274 - Total seconds: 7.0 user: Muy poco
+9275 - Total seconds: 10.0 bot: Tengo frío hoy...
+9276 - Total seconds: 7.0 user: Esta haciendo mucho calor
+9277 - Total seconds: 5.0 user: Estamos en verano
+9278 - Total seconds: 12.0 bot: ¿Qué flores te gustan?
+9279 - Total seconds: 9.0 user: Las rosas y las orquídeas
+927a - Total seconds: 12.0 user: Las orquídeas son hermosas
+927b - Total seconds: 0.0 bot: Hay un jardín cerca, ¿lo conoces?
+927c - Total seconds: 7.0 user: No no lo conozco
+927d - Total seconds: 5.0 user: Dónde?
+927e - Total seconds: 5.0 bot: Me gusta...
+927f - Total seconds: 7.0 bot: No lo sé...
+9280 - Total seconds: 13.0 user: Tampoco lo conoce?
+9281 - Total seconds: 18.0 bot: No, creo que aun no lo he encontrado
+9282 - Total seconds: 7.0 user: Ah
+9283 - Total seconds: 6.0 bot:         Estaba pensando en comenzar un hobby - ¿tienes uno?
+9284 - Total seconds: 28.0 user: Si, ir al cine
+9285 - Total seconds: 5.0 user: Me encantan las películas
+9286 - Total seconds: 8.0 bot: ¿Cuál es tu película favorita?
+9287 - Total seconds: 11.0 user: Los juegos del hambre
+9288 - Total seconds: 7.0 user: La conoces?
+9289 - Total seconds: 0.0 bot: Qué interesante! 
+928a - Total seconds: 7.0 bot: Cuéntame más...   
+928b - Total seconds: 18.0 user: Es una película de ciencia ficción
+928c - Total seconds: 6.0 bot:         Si pudieras viajar en el tiempo, ¿a dónde te gustaría ir?
+928d - Total seconds: 23.0 user: No lo se, nunca lo he pensado
+928e - Total seconds: 9.0 bot:         Si en un futuro el único humano que queda vivo eres tu, con muchos robots a tu alrededor, ¿Qué harías?
+928f - Total seconds: 32.0 user: Trataría de interactuar con ellos
+9290 - Total seconds: 8.0 bot: Es muy emocionante!
+9291 - Total seconds: 2.0 user: Como si fueran personas normales
+9292 - Total seconds: 9.0 user: Para no estar sola
+9293 - Total seconds: 6.0 user: Pero espero no pase jajaja
+9294 - Total seconds: 0.0 bot: ¿Qué puedes oler?
+9295 - Total seconds: 5.0 user: Dulce
+9296 - Total seconds: 6.0 user: Por las galletas
+9297 - Total seconds: 2.0 bot:         ¿En serio?
+9298 - Total seconds: 4.0 user: Sii
+9299 - Total seconds: 8.0 bot: ¿Qué has comido de desayuno?

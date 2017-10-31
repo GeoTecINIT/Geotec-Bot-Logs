@@ -1,0 +1,238 @@
+[{
+    "_id" : "57837183de6cf86b3d246abb",
+    "message" : "10011",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:14:27.902+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837188de6cf86b3d246abc",
+    "from" : "bot",
+    "message" : "Vale, gracias. ¿Cómo te llamas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:14:32.382+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5783718ede6cf86b3d246abd",
+    "message" : "Fernando",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:14:38.955+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837196de6cf86b3d246abe",
+    "from" : "bot",
+    "message" : "Siempre me gustó ese nombre.",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:14:46.353+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578371a0de6cf86b3d246abf",
+    "message" : "Que bueno",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:14:56.890+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578371a9de6cf86b3d246ac0",
+    "from" : "bot",
+    "message" : "¿Cuál es tu película favorita?",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:15:05.095+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578371b8de6cf86b3d246ac1",
+    "message" : "Los vengadores",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:15:20.071+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578371c5de6cf86b3d246ac2",
+    "from" : "bot",
+    "message" : "Cuéntame más...   ",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:15:33.412+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578371dede6cf86b3d246ac3",
+    "message" : "Hay muchas pelis que me gustan sobre todo las de Mar el",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:15:58.140+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578371e4de6cf86b3d246ac4",
+    "message" : "Marvel",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:16:04.854+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837200de6cf86b3d246ac5",
+    "from" : "bot",
+    "message" : " ¿Dónde te gustaría ir de vacaciones?",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:16:32.513+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837209de6cf86b3d246ac6",
+    "message" : "Australia",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:16:41.763+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837213de6cf86b3d246ac7",
+    "from" : "bot",
+    "message" : "Eso que comentas parece muy interesante.",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:16:51.599+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837234de6cf86b3d246ac8",
+    "message" : "Es, existen gran cantidad de islas y lugares increíbles",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:17:24.250+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837250de6cf86b3d246ac9",
+    "from" : "bot",
+    "message" : "¿Qué harías si en un viaje encuentras una nave extraterrestre?",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:17:52.975+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5783725ade6cf86b3d246aca",
+    "message" : "Corro",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:18:02.114+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5783727dde6cf86b3d246acb",
+    "from" : "bot",
+    "message" : " ¿Puedes ver algo de basura cerca?",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:18:37.102+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837285de6cf86b3d246acc",
+    "message" : "No",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:18:45.871+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837289de6cf86b3d246acd",
+    "message" : "Por que",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:18:49.708+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837290de6cf86b3d246ace",
+    "from" : "bot",
+    "message" : "¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:18:56.971+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578372e9de6cf86b3d246acf",
+    "message" : "Sería muy útil en términos fe educación y turismo además de romper varias barrer, sin embargo una de las mejores cosas del mundo es su diversidad por lo que prefiero que sea como es",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:20:25.204+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837317de6cf86b3d246ad0",
+    "from" : "bot",
+    "message" : "¿Has visto muchas jirafas por aquí?",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:21:11.086+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837323de6cf86b3d246ad1",
+    "message" : "No",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:21:23.242+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837326de6cf86b3d246ad2",
+    "message" : "Ninguna",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:21:26.908+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837335de6cf86b3d246ad3",
+    "from" : "bot",
+    "message" : "¿Cómo has llegado hasta aquí?",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:21:41.106+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837342de6cf86b3d246ad4",
+    "message" : "En bicicleta",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:21:54.230+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837353de6cf86b3d246ad5",
+    "from" : "bot",
+    "message" : "¿En qué parte de la ciudad estamos?",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:22:11.344+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5783737ade6cf86b3d246ad6",
+    "message" : "En la universidad que es al nor occidente de Castellón",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:22:50.556+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57837399de6cf86b3d246ad7",
+    "from" : "bot",
+    "message" : " ¿Crees que la ciudad debe tener mayor conciencia ambiental en algún sentido?",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:23:21.438+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578373acde6cf86b3d246ad8",
+    "message" : "Si pero la veo muy bien",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:23:40.634+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578373b5de6cf86b3d246ad9",
+    "message" : "Mas bicicletas",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:23:49.430+0000",
+    "__v" : 0
+},
+{
+    "_id" : "578373c0de6cf86b3d246ada",
+    "from" : "bot",
+    "message" : " ¿Cuál es tu sonido favorito?",
+    "chatid" : 263536194,
+    "time" : "2016-07-11T10:24:00.589+0000",
+    "__v" : 0
+}]

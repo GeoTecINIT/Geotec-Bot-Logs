@@ -1,0 +1,277 @@
+[{
+    "_id" : "57b2dbdc24bcaaed22e52ce2",
+    "message" : "10005",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:24:44.454+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dbdf24bcaaed22e52ce3",
+    "from" : "",
+    "message" : "Vale, gracias. ¿Cómo te llamas?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:24:47.877+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dbe424bcaaed22e52ce4",
+    "message" : "Diego",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:24:52.742+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dbe924bcaaed22e52ce5",
+    "from" : "",
+    "message" : "Encantada, soy Sara.",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:24:57.869+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dc0a24bcaaed22e52ce6",
+    "message" : "Hola Sara, encantado",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:25:30.570+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dc0f24bcaaed22e52ce7",
+    "from" : "",
+    "message" : "¿Cómo te encuentras el día de hoy?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:25:35.200+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dc1924bcaaed22e52ce8",
+    "message" : "Contento",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:25:45.233+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dc2424bcaaed22e52ce9",
+    "from" : "",
+    "message" : "Cuéntame más...",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:25:56.483+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dc4724bcaaed22e52cea",
+    "message" : "Un poco consternado por el clima, ya va a hacer mas frío",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:26:31.533+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dc6424bcaaed22e52ceb",
+    "from" : "",
+    "message" : "¿Está lloviendo afuera?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:27:00.794+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dc6b24bcaaed22e52cec",
+    "message" : "Un poco",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:27:07.012+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dc7324bcaaed22e52ced",
+    "from" : "",
+    "message" : "        ¿Dónde fuiste de vacaciones la última vez?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:27:15.086+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dc7b24bcaaed22e52cee",
+    "from" : "",
+    "message" : "        ¿Dónde fuiste de vacaciones la última vez?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:27:23.340+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dc8024bcaaed22e52cef",
+    "message" : "Castellón y Barcelona",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:27:28.944+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dc9124bcaaed22e52cf0",
+    "from" : "",
+    "message" : "        ¿Dónde fuiste de vacaciones la última vez?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:27:45.370+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dca024bcaaed22e52cf1",
+    "message" : "Te lo dije Barcelona",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:28:00.995+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dca524bcaaed22e52cf2",
+    "message" : "Estas bien ?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:28:05.786+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dcbb24bcaaed22e52cf3",
+    "from" : "",
+    "message" : "¿Te gusta la playa o la montaña?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:28:27.692+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dcc924bcaaed22e52cf4",
+    "message" : "La playa definitivamente",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:28:41.316+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dcde24bcaaed22e52cf5",
+    "from" : "",
+    "message" : "A mi me gusta la playa y el mar...",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:29:02.937+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dced24bcaaed22e52cf6",
+    "message" : "A mi me encanta el agua del mar y las olas",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:29:17.653+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dcf424bcaaed22e52cf7",
+    "from" : "",
+    "message" : "Que interesante!",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:29:24.883+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dcfb24bcaaed22e52cf8",
+    "message" : "Te gusta el sol?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:29:31.598+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dd1224bcaaed22e52cf9",
+    "from" : "",
+    "message" : "Me gusta el sol y el calor...",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:29:54.350+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dd3324bcaaed22e52cfa",
+    "message" : "Uff a mi el calor no me gusta tanto. Prefiero algo no tan caliente",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:30:27.702+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dd4124bcaaed22e52cfb",
+    "from" : "",
+    "message" : " ¿Qué harías si en un viaje encuentras una nave extraterrestre?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:30:41.657+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dd4d24bcaaed22e52cfc",
+    "message" : "La exploraría",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:30:53.395+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dd6324bcaaed22e52cfd",
+    "from" : "",
+    "message" : "Cuéntame más sobre eso...",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:31:15.708+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dd8d24bcaaed22e52cfe",
+    "message" : "Trataría de ver que hay dentro y como se opera, los controles y el timón",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:31:57.509+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dd9824bcaaed22e52cff",
+    "from" : "",
+    "message" : "¿Te gustan los barcos?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:32:08.353+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dd9d24bcaaed22e52d00",
+    "message" : "Así vería como la conducen los extraterrestres",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:32:13.196+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dda524bcaaed22e52d01",
+    "message" : "Me gustan los barcos si",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:32:21.965+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2ddc024bcaaed22e52d02",
+    "from" : "",
+    "message" : "Quiero salir a navegar.. ",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:32:48.423+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dde124bcaaed22e52d03",
+    "message" : "Tienes q hacerlo, yo muy pocas veces he navegado y me encanta!!!",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:33:21.313+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2dded24bcaaed22e52d04",
+    "from" : "",
+    "message" : "        ¿Cuál es tu sonido favorito?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:33:33.986+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2de0724bcaaed22e52d05",
+    "message" : "De los tambores",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:33:59.942+0000",
+    "__v" : 0
+},
+{
+    "_id" : "57b2de2924bcaaed22e52d06",
+    "from" : "",
+    "message" : "¿Tocás algún instrumento?",
+    "chatid" : 263536194,
+    "time" : "2016-08-16T09:34:33.860+0000",
+    "__v" : 0
+}]

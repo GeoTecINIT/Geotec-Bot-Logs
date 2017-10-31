@@ -1,0 +1,48 @@
+10009
+c039 - Total seconds: -555.0 user: 10007
+c03a - Total seconds: 2.0 bot: Vale, gracias. ¿Cómo te llamas?
+c03b - Total seconds: 8.0 user: David y tu?
+c03c - Total seconds: 4.0 bot: Sara.
+c03d - Total seconds: 9.0 user: Encantado Sara
+c03e - Total seconds: 6.0 bot:         ¿Cuál es tu deporte favorito?
+c03f - Total seconds: 18.0 user: Fútbol es el deporte rey en españa
+c040 - Total seconds: 4.0 user: Te gusta?
+c041 - Total seconds: 7.0 bot: Qué interesante! 
+c042 - Total seconds: 7.0 bot: Cuéntame más...   
+c043 - Total seconds: 21.0 user: Sobre fútbol o sobre otra cosa diferente?
+c044 - Total seconds: 6.0 bot:         Qué harías si te encuentras en una nave espacial y su computadora no te deja regresar a salvo?
+c045 - Total seconds: 57.0 user: Pues pensar la forma de como arreglarla o intentar comunicarme con otras personas para regresar sano y salvo
+c046 - Total seconds: 9.0 bot:         Eso que comentas parece muy interesante.
+c047 - Total seconds: 16.0 user: No me voy a quedar parado no?
+c048 - Total seconds: 13.0 bot: ¿Crees que soy alto?
+c049 - Total seconds: 14.0 user: Alto? No eras chica?
+c04a - Total seconds: 6.0 user: Sería alta no??
+c04b - Total seconds: 13.0 bot: ¿Has visto jirafas por aquí?
+c04c - Total seconds: 6.0 user: Noooo
+c04d - Total seconds: 5.0 bot:         ¿Te gusta jugar a los videojuegos? ¿Cómo sería jugar tu propia vida?
+c04e - Total seconds: 49.0 user: Me gustan los videojuegos aunqueno me gustaría jugar mi vida en ellos los videojuegos están para jugar pero sin arriesgar
+c04f - Total seconds: 7.0 bot:         Te veo muy seguro de tus palabras.
+c050 - Total seconds: 19.0 user: Siempre hay que estar seguro de uno mismo
+c051 - Total seconds: 10.0 bot:         ¿Dónde te gustaría ir de vacaciones?
+c052 - Total seconds: 19.0 user: Vacaciones para disfrutar relax o para ver cosas?
+c053 - Total seconds: 17.0 bot: China es grande y con mucha gente...
+c054 - Total seconds: 19.0 user: Pero prefiero otro lugar como el caribe! Jaja
+c055 - Total seconds: 15.0 bot: ¿Conoces los peces del Caribe?
+c056 - Total seconds: 13.0 user: Por fotos y vídeos algunos he visto
+c057 - Total seconds: 6.0 user: Pero no se sus nombres
+c058 - Total seconds: 12.0 bot: Son lindos....
+c059 - Total seconds: 9.0 bot:         ¿Cuál es tu comida favorita?
+c05a - Total seconds: 0.0 user: Muy coloridos
+c05b - Total seconds: 11.0 bot:         ¿Cuál es su lugar favorito para escuchar música?
+c05c - Total seconds: 1.0 user: La pasta
+c05d - Total seconds: 6.0 user: La playa
+c05e - Total seconds: 6.0 bot: ¿Esta lloviendo?
+c05f - Total seconds: 6.0 user: Creo que no
+c060 - Total seconds: 12.0 bot: Hoy tengo frío. ¿Hace frío?
+c061 - Total seconds: 12.0 user: Estoy dentro del edificio no lo se
+c062 - Total seconds: 7.0 user: Pero esta mañana no
+c063 - Total seconds: 4.0 bot: ¿En qué parte de la ciudad estamos?
+c064 - Total seconds: 9.0 user: En la norte
+c065 - Total seconds: 13.0 bot:         Estoy intentando aprender algo de valenciano, ¿puedes decirme alguna frase para decir?
+c066 - Total seconds: 37.0 user: Clar jo soc el mitjor bot del mon
+c067 - Total seconds: 5.0 bot: Que interesante!

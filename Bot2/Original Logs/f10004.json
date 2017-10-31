@@ -1,0 +1,194 @@
+[{
+    "_id" : "5784cf833cdd9b0037f8135c",
+    "message" : "10004",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:07:47.738+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784cf873cdd9b0037f8135d",
+    "from" : "bot",
+    "message" : "Vale, gracias. ¿Cómo te llamas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:07:51.328+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784cf933cdd9b0037f8135e",
+    "message" : "Nacho, y tú?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:08:03.750+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784cf9c3cdd9b0037f8135f",
+    "from" : "bot",
+    "message" : "Sara",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:08:12.634+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784cfb43cdd9b0037f81360",
+    "message" : "Un nombre bonito, tenia una novia que se llamaba igual.",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:08:36.058+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784cfc53cdd9b0037f81361",
+    "from" : "bot",
+    "message" : "   ¿Qué harías si en un viaje encontrás una nave extraterrestre?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:08:53.707+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d0073cdd9b0037f81362",
+    "message" : "Pues depende, si voy solo la exploraría para ver si puedo sacar algo interésante. Si voy con gente quizá huiría por si es peligroso.",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:09:59.620+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d0123cdd9b0037f81363",
+    "from" : "bot",
+    "message" : "Es muy emocionante...",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:10:10.052+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d0293cdd9b0037f81364",
+    "message" : "Te ha pasado alguna vez, Dará?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:10:33.594+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d03b3cdd9b0037f81365",
+    "message" : "Sara, perdón!\"",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:10:51.171+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d04a3cdd9b0037f81366",
+    "from" : "bot",
+    "message" : "     Me gustaría que siguieras hablando de ello.",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:11:06.618+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d0553cdd9b0037f81367",
+    "message" : "De la nave?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:11:17.998+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d0673cdd9b0037f81368",
+    "from" : "bot",
+    "message" : "¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:11:35.855+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d0af3cdd9b0037f81369",
+    "message" : "No hablo muchas. Si todos habláramos la misma las cosas serían más fáciles. Pero también se perderían muchas cosas bonitas de la cultura.",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:12:47.593+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d0c03cdd9b0037f8136a",
+    "from" : "bot",
+    "message" : "  ¿Cuál es tu tipo favorito de vacaciones?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:13:04.509+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d0ce3cdd9b0037f8136b",
+    "message" : "Las vacaciones largas!!!\"",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:13:18.469+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d0da3cdd9b0037f8136c",
+    "from" : "bot",
+    "message" : "¿Cómo ha cambiado la ciudad, desde que tu la conoces?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:13:30.476+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d0db3cdd9b0037f8136d",
+    "message" : "Y las tuyas?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:13:31.316+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d0f63cdd9b0037f8136e",
+    "message" : "Mucho, ha crecido, hay mas edificios, parques...",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:13:58.671+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d1033cdd9b0037f8136f",
+    "from" : "bot",
+    "message" : "¿Dónde vives?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:14:11.837+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d1223cdd9b0037f81370",
+    "message" : "En Benicasim, un pueblo cerca de Castellón. Y tú?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:14:42.544+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d13e3cdd9b0037f81371",
+    "from" : "bot",
+    "message" : "Aqui. ¿Me puedes ver?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:15:10.719+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d15f3cdd9b0037f81372",
+    "message" : "Creo que no, solo veo a Manuel y tú has dicho que te llamas Sara",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:15:43.020+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d16e3cdd9b0037f81373",
+    "from" : "bot",
+    "message" : "He estado aquí por 25 años. ¿Cuánto tiempo has estado en la ciudad?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:15:58.390+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d17d3cdd9b0037f81374",
+    "message" : "Yo te gano, llevo ya 34",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:16:13.149+0000",
+    "__v" : 0
+},
+{
+    "_id" : "5784d18b3cdd9b0037f81375",
+    "from" : "bot",
+    "message" : "¿Qué olor te recuerda a casa?",
+    "chatid" : 263536194,
+    "time" : "2016-07-12T11:16:27.571+0000",
+    "__v" : 0
+}]

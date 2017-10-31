@@ -1,0 +1,22 @@
+#!/usr/local/bin/python
+# coding: utf-8
+data = [[780, '10008', '10008', '¿Y si desaparecen los códigos postales cómo llegarían las cosas a tu casa?', 140, 'tel-263536194', 1, '2016-07-11 08:17:25'],
+[781, 'Por el nombre de la calle', 'POR EL NOMBRE DE LA CALLE', '¿Cuál es tu recuerdo favorito de esta ciudad?', 140, 'tel-263536194', 1, '2016-07-11 08:18:17'],
+[782, 'De que ciudad?', 'DE QUE CIUDAD', '¿Qué se puede ver allí a pie de calle?', 140, 'tel-263536194', 1, '2016-07-11 08:18:55'],
+[783, 'Me imagino una ciudad que me guste. Puedo ver un bonito amanecer', 'ME IMAGINO UNA CIUDAD QUE ME GUSTE PUEDO VER UN BONITO AMANECER', '¿Crees que hay vida después de la muerte?', 140, 'tel-263536194', 1, '2016-07-11 08:20:13'],
+[784, 'No', 'NO', '¿Entonces?', 140, 'tel-263536194', 1, '2016-07-11 08:20:24'],
+[785, 'Nos morimos y ya esta, se acabo', 'NOS MORIMOS Y YA ESTA SE ACABO', 'La muerte era considerada por los antiguos egipcios como la entrada al mundo de los dioses.', 140, 'tel-263536194', 1, '2016-07-11 08:21:01'],
+[786, 'Si, muy interesante su mitología. Una gran aportación cultural', 'SI MUY INTERESANTE SU MITOLOGÍA UNA GRAN APORTACIÓN CULTURAL', '¿En serio lo crees?', 140, 'tel-263536194', 1, '2016-07-11 08:21:57'],
+[787, 'Me encantan. Si podría', 'ME ENCANTAN SI PODRÍA', '¿Qué se puede ver allí a pie de calle?', 140, 'tel-263536194', 1, '2016-07-11 08:22:39'],
+[788, 'Una catedral', 'UNA CATEDRAL', '¿Crees que las máquinas son inteligentes?', 140, 'tel-263536194', 1, '2016-07-11 08:22:57'],
+[789, 'Todavía muy poco', 'TODAVÍA MUY POCO', '¿Cómo le llamab a esta parte de la ciudad?', 140, 'tel-263536194', 1, '2016-07-11 08:23:13'],
+[790, 'piazza del Duomo', 'PIAZZA DEL DUOMO', 'Supongamos que la clonación es posible y accesible, ¿cuantos clones querrías?', 140, 'tel-263536194', 1, '2016-07-11 08:23:43'],
+[791, 'Mios o de otras personas?', 'MIOS O DE OTRAS PERSONAS', '¿Crees que es sencillo hablar con los humanos?', 140, 'tel-263536194', 1, '2016-07-11 08:24:19'],
+[792, 'Si, bastante', 'SI BASTANTE', '¿Que futuros posibles te imaginas? ¿Qué crees que cambie en este mundo?', 140, 'tel-263536194', 1, '2016-07-11 08:24:40'],
+[793, 'Que simpatico', 'QUE SIMPATICO', 'Si pudieras viajar en el tiempo, ¿a donde te gustaría ir?', 140, 'tel-263536194', 1, '2016-07-11 08:25:55'],
+[794, 'All futuro', 'ALL FUTURO', 'Si tu tiempo fuera la moneda en la economía global... en que lo gastarías?', 140, 'tel-263536194', 1, '2016-07-11 08:26:06'],
+[795, 'In viajar', 'IN VIAJAR', 'Sé que esto suena un poco vanidoso, pero es lo parecemos viejos?', 140, 'tel-263536194', 1, '2016-07-11 08:26:34'],
+[796, 'Te estas liando', 'TE ESTAS LIANDO', 'Si en un futuro el único humano que queda vivo eres tu, con muchos robots a tu alrededor, ¿Qué harías?', 140, 'tel-263536194', 1, '2016-07-11 08:27:11'],
+[797, 'Llevarne lo major posible', 'LLEVARNE LO MAJOR POSIBLE', '¿Dónde fuiste de vacaciones la última vez?', 140, 'tel-263536194', 1, '2016-07-11 08:27:52'],
+[798, 'A USA', 'A USA', '¿Conocés algún extranjero viviendo aquí? ¿de donde?', 140, 'tel-263536194', 1, '2016-07-11 08:28:07'],
+[799, 'De Mexico', 'DE MEXICO', '¿Donde puedo enviar a las personas que solicitan una buena caña?', 140, 'tel-263536194', 1, '2016-07-11 08:28:31']]

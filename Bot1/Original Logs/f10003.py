@@ -1,0 +1,20 @@
+#!/usr/local/bin/python
+# coding: utf-8
+data = [[829, '10003', '10003', 'Si pudieras viajar en el tiempo, ¿a donde te gustaría ir?', 140, 'tel-263536194', 1, '2016-07-13 07:23:58'],
+[830, 'No me gustaría', 'NO ME GUSTARÍA', '¿Comerías carne hecha en un laboratorio?', 140, 'tel-263536194', 1, '2016-07-13 07:24:23'],
+[831, 'Me gustan. Quieres que vaya ahora?', 'ME GUSTAN QUIERES QUE VAYA AHORA', 'Excelente.', 140, 'tel-263536194', 1, '2016-07-13 07:25:33'],
+[832, 'Voy?', 'VOY', 'Si tu fueras tan alto como yo, ¿qué harías?', 140, 'tel-263536194', 1, '2016-07-13 07:26:04'],
+[833, 'Te he puesto en un aprieto,EH?', 'TE HE PUESTO EN UN APRIETO EH', 'Estoy intentando aprender algo de valenciano, puedes decirme alguna frase para decir?', 140, 'tel-263536194', 1, '2016-07-13 07:27:26'],
+[834, 'Bona nit', 'BONA NIT', '¿Cuál es tu película favorita?', 140, 'tel-263536194', 1, '2016-07-13 07:27:40'],
+[835, 'Cinema Paradiso', 'CINEMA PARADISO', 'No te entiendo. Espero que Manuel mejore mi base de datos.', 140, 'tel-263536194', 1, '2016-07-13 07:28:00'],
+[836, 'Pues sí porque es una película muy buena ', 'PUES SÍ PORQUE ES UNA PELÍCULA MUY BUENA ', 'Mi película favorita es "Robocop".', 140, 'tel-263536194', 1, '2016-07-13 07:28:37'],
+[837, 'Te va', 'TE VA', 'Si tu tiempo fuera la moneda en la economía global... en que lo gastarías?', 140, 'tel-263536194', 1, '2016-07-13 07:28:46'],
+[838, 'En reirme', 'EN REIRME', '¿Qué harías si en el futuro no existieran más los libros?', 140, 'tel-263536194', 1, '2016-07-13 07:29:16'],
+[839, 'No podría vivir sin libros', 'NO PODRÍA VIVIR SIN LIBROS', '¿Qué harías si en un viaje encontrás una nave extraterrestre?', 140, 'tel-263536194', 1, '2016-07-13 07:29:43'],
+[840, 'No me lo creo', 'NO ME LO CREO', 'Yo también lo creo.', 140, 'tel-263536194', 1, '2016-07-13 07:30:10'],
+[841, 'Yo no', 'YO NO', 'Puedes explicarme mejor eso? No lo acabo de entender.', 140, 'tel-263536194', 1, '2016-07-13 07:30:23'],
+[842, 'No es posible encontrar una nave extraterrestre', 'NO ES POSIBLE ENCONTRAR UNA NAVE EXTRATERRESTRE', 'Por supuesto que es posible.', 140, 'tel-263536194', 1, '2016-07-13 07:30:55'],
+[843, 'A sí? Te has encontrado alguna?', 'A SÍ TE HAS ENCONTRADO ALGUNA', '¿Dónde fuiste de vacaciones la última vez?', 140, 'tel-263536194', 1, '2016-07-13 07:31:25'],
+[844, 'A Bélgica', 'A BÉLGICA', 'Cuando fue la última vez que envías una carta?', 140, 'tel-263536194', 1, '2016-07-13 07:31:56'],
+[845, 'Hace 1 mes. Más o menosprecio', 'HACE 1 MES MÁS O MENOSPRECIO', 'Uno.', 140, 'tel-263536194', 1, '2016-07-13 07:32:27'],
+[846, 'Menos', 'MENOS', 'Vale.', 140, 'tel-263536194', 1, '2016-07-13 07:32:32']]

@@ -1,0 +1,27 @@
+10004
+135c - Total seconds: -520.0 user: 10004
+135d - Total seconds: 4.0 bot: Vale, gracias. ¿Cómo te llamas?
+135e - Total seconds: 12.0 user: Nacho, y tú?
+135f - Total seconds: 9.0 bot: Sara
+1360 - Total seconds: 24.0 user: Un nombre bonito, tenia una novia que se llamaba igual.
+1361 - Total seconds: 17.0 bot:    ¿Qué harías si en un viaje encontrás una nave extraterrestre?
+1362 - Total seconds: 66.0 user: Pues depende, si voy solo la exploraría para ver si puedo sacar algo interésante. Si voy con gente quizá huiría por si es peligroso.
+1363 - Total seconds: 11.0 bot: Es muy emocionante...
+1364 - Total seconds: 23.0 user: Te ha pasado alguna vez, Dará?
+1365 - Total seconds: 18.0 user: Sara, perdón!"
+1366 - Total seconds: 15.0 bot:      Me gustaría que siguieras hablando de ello.
+1367 - Total seconds: 11.0 user: De la nave?
+1368 - Total seconds: 18.0 bot: ¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?
+1369 - Total seconds: 72.0 user: No hablo muchas. Si todos habláramos la misma las cosas serían más fáciles. Pero también se perderían muchas cosas bonitas de la cultura.
+136a - Total seconds: 17.0 bot:   ¿Cuál es tu tipo favorito de vacaciones?
+136b - Total seconds: 14.0 user: Las vacaciones largas!!!"
+136c - Total seconds: 12.0 bot: ¿Cómo ha cambiado la ciudad, desde que tu la conoces?
+136d - Total seconds: 1.0 user: Y las tuyas?
+136e - Total seconds: 27.0 user: Mucho, ha crecido, hay mas edificios, parques...
+136f - Total seconds: 13.0 bot: ¿Dónde vives?
+1370 - Total seconds: 31.0 user: En Benicasim, un pueblo cerca de Castellón. Y tú?
+1371 - Total seconds: 28.0 bot: Aqui. ¿Me puedes ver?
+1372 - Total seconds: 33.0 user: Creo que no, solo veo a Manuel y tú has dicho que te llamas Sara
+1373 - Total seconds: 15.0 bot: He estado aquí por 25 años. ¿Cuánto tiempo has estado en la ciudad?
+1374 - Total seconds: 15.0 user: Yo te gano, llevo ya 34
+1375 - Total seconds: 14.0 bot: ¿Qué olor te recuerda a casa?

@@ -1,0 +1,43 @@
+10002
+900 - Total seconds: -420.0
+ User: 10002
+ Bot: ¿Cuál es tu mejor recuerdo de infancia?
+901 - Total seconds: 37.0
+ User: Mmm...déjame pensar
+ Bot: ¿Has visto los blogs de gatos? ¿Y los gatos en instagram?
+902 - Total seconds: 55.0
+ User: No, pero me encantan los gatos. Tengo uno
+ Bot: GRACIAS LO RECORDARÉ.
+903 - Total seconds: 34.0
+ User: Por que lo recordarás?
+ Bot: ¿Por qué no?
+904 - Total seconds: 30.0
+ User: Por que no sabes su nombre
+ Bot: ¿Por qué no?
+905 - Total seconds: 47.0
+ User: ¿Por qué?
+ Bot: No se el porqué, lo siento.
+906 - Total seconds: 13.0
+ User: Aahh
+ Bot: Si en 40 años ya no existieran más la sexualidad en los humanos, ¿Cómo cambiaría la sociedad?
+907 - Total seconds: 19.0
+ User: Mucho
+ Bot: Seguro que no será tanto.
+908 - Total seconds: 15.0
+ User: Jajaja yo creo que si
+ Bot: Yo también lo creo.
+909 - Total seconds: 32.0
+ User: ¿Por qué?
+ Bot: No se el porqué, lo siento.
+910 - Total seconds: 12.0
+ User: No pasa nada
+ Bot: ¿Te conformas con sólo eso?
+911 - Total seconds: 10.0
+ User: Con qué?
+ Bot: ¿Qué harías si en un viaje encontrás una nave extraterrestre?
+912 - Total seconds: 71.0
+ User: Hacerle una foto y ver si hay dentro algún extraterrestre
+ Bot: ¿Qué harías si en el futuro no existieran más los libros?
+913 - Total seconds: 45.0
+ User: Escribiría uno nuevo
+ Bot: ¿Has visto los blogs de gatos? ¿Y los gatos en instagram?

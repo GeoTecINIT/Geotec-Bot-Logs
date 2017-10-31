@@ -1,0 +1,34 @@
+10004
+818 - Total seconds: -355.0
+ User: 10004
+ Bot: ¿Dónde te gustaría ir de vacaciones?
+819 - Total seconds: 28.0
+ User: Hola, seguramente a un pueblo de interior.
+ Bot: ¿Qué tal? Si los animales pudieran hablar nuestro idioma, ¿sería bonito?
+820 - Total seconds: 34.0
+ User: No!, se quejarían mucho de lo mal que les tratamos.
+ Bot: ¿Por qué dices eso?
+821 - Total seconds: 35.0
+ User: Porque creo que las personas hacemos muchas cosas que dañan a los animales que podrían ser evitadas.
+ Bot: ¿Eso crees?
+822 - Total seconds: 25.0
+ User: Si. ¿No estás de acuerdo?
+ Bot: Si pudieras viajar en el tiempo, ¿a donde te gustaría ir?
+823 - Total seconds: 16.0
+ User: A muchos sitios.
+ Bot: Este es un gran lugar para observar a la gente. ¿Puedes describir a la persona más cercana a ti?
+824 - Total seconds: 58.0
+ User: Es un compañero de trabajo, argentino. Alto y de pelo oscuro. Lleva una coleta original.
+ Bot: ¿Comerías carne hecha en un laboratorio?
+825 - Total seconds: 24.0
+ User: Si, mientras no fuera el primero en probarla.
+ Bot: ¿Qué has visto la primera vez que has venido aquí?
+826 - Total seconds: 28.0
+ User: La cámara con la que me están grabando.
+ Bot: ¿Cuál es tu color favorito?
+827 - Total seconds: 21.0
+ User: Hoy, el violeta.
+ Bot: Así que tu color favorito es el HOY EL VIOLETA.
+828 - Total seconds: 86.0
+ User: Perfecto. Hasta otra!!!
+ Bot: ¿Qué nueva habilidad que te gustaría aprender?

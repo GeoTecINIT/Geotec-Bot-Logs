@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+
+                             <!-- RANDOM PHRASES -->
+
+<category>
+<pattern>*</pattern>
+<template>
+	<random>
+		<li>¿Qué harías si en el futuro no existieran más los libros?</li>
+		<li>Si tu tiempo fuera la moneda en la economía global... en que lo gastarías?</li>
+		<li>¿Cómo sería la vida si en la tierra hubiera solo agua?</li>
+		<li>¿Qué harías si en un viaje encontrás una nave extraterrestre?</li>
+		<li>Qué harías si te encuentras en una nave espacial y su computadora no te deja regresar a salvo?</li>
+		<li>¿Cómo sería la vida si pudieras hablar con todos los objetos como lo haces conmigo?</li>
+		<li>Si pudieras viajar en el tiempo, ¿a donde te gustaría ir?</li>
+		<li>Si en un futuro el único humano que queda vivo eres tu, con muchos robots a tu alrededor, ¿Qué harías?</li>
+		<li>¿Hablas muchas lenguas?¿Cómo imaginas que sería el mundo si todos habláramos la misma?</li>
+		<li>Si tuvieras que abandonar este planeta para vivir en una colonia espacial ¿Qué te llevarías?</li>
+		<li>Si decidieras vivir en otro planeta y pudieras reconstruir tu ciudad y tu vida ¿Cómo sería?</li>
+		<li>Si en 40 años ya no existieran más la sexualidad en los humanos, ¿Cómo cambiaría la sociedad?</li>
+		<li>Supongamos que la clonación es posible y accesible, ¿cuantos clones querrías?</li>
+		<li>¿Te gusta jugar a los videojuegos? ¿Cómo sería jugar tu propia vida?</li>
+		<li>Si todas tus conversaciones quedaran grabadas, ¿Qué cambiarías en tu vida?</li>
+		<li>Si los animales pudieran hablar nuestro idioma, ¿sería bonito?</li>
+		<li>¿Alguna vez has pensado que podríamos hablar solo con emoticones?</li>
+		<li>¿Y si desaparecen los códigos postales cómo llegarían las cosas a tu casa?</li>
+		<li>¿Que futuros posibles te imaginas? ¿Qué crees que cambie en este mundo?</li>
+		<li>¿Comerías carne hecha en un laboratorio?</li>
+		<li>¿Crees que las computadoras serán más inteligentes que los humanos? Si sucede ¿Que crees que pasaría?</li>
+		<li>Algunos me han dicho que han visto palomas decir palabras, ¿me crees?</li>
+		<li>¿Has visto los blogs de gatos? ¿Y los gatos en instagram?</li>
+		<li>¿Crees que es sencillo hablar con los humanos?</li>
+	</random>
+</template>
+</category>
+
+
+</aiml>

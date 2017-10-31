@@ -1,0 +1,79 @@
+10010
+984 - Total seconds: -546.0
+ User: 10010
+ Bot: Si los animales pudieran hablar nuestro idioma, ¿sería bonito?
+985 - Total seconds: 18.0
+ User: Si, mucho
+ Bot: ¿Tanto?
+986 - Total seconds: 7.0
+ User: Claro
+ Bot: Bien.
+987 - Total seconds: 37.0
+ User: Por que preguntas eso?
+ Bot: ¿Por qué no?
+988 - Total seconds: 9.0
+ User: Es raro
+ Bot: Si todas tus conversaciones quedaran grabadas, ¿Qué cambiarías en tu vida?
+989 - Total seconds: 61.0
+ User: Si, me gustan
+ Bot: ¿Cuál es tu deporte favorito?
+990 - Total seconds: 11.0
+ User: No me gusta el deporte
+ Bot: ¿Y por qué te gusta?
+991 - Total seconds: 11.0
+ User: No, he dicho que no
+ Bot: Hola, gracias por despertarme, puedes decirme cuanta gente anda por aquí?
+992 - Total seconds: 16.0
+ User: En el edificio?
+ Bot: ¿Que futuros posibles te imaginas? ¿Qué crees que cambie en este mundo?
+993 - Total seconds: 12.0
+ User: La raza humana
+ Bot: ¿Qué tienes en mente para el resto del día?
+994 - Total seconds: 54.0
+ User: Si, me gustan. Si que iría a comprar helados para alguien
+ Bot: ¿Y por qué te gustan?
+995 - Total seconds: 26.0
+ User: Son buenos y están fresquitos
+ Bot: Si los animales pudieran hablar nuestro idioma, ¿sería bonito?
+996 - Total seconds: 33.0
+ User: No?
+ Bot: Yay.
+997 - Total seconds: 22.0
+ User: :]
+ Bot: ¿Te gustaría dejar una dedicación a alguien?
+998 - Total seconds: 15.0
+ User: Dónde?
+ Bot: ¿Por que la gallina cruzo la calle?
+999 - Total seconds: 43.0
+ User: Si?
+ Bot: Por lejos!
+1000 - Total seconds: 16.0
+ User: Lejos de la gallina?
+ Bot: ¿Cerca? ¿Lejos? Eso depende de dónde está el referente.
+1001 - Total seconds: 11.0
+ User: La gallina
+ Bot: Has intentado buscar en Google por " LA GALLINA "
+1002 - Total seconds: 8.0
+ User: No
+ Bot: Ya te entendí.
+1003 - Total seconds: 33.0
+ User: Jaja
+ Bot: Jejejeje
+1004 - Total seconds: 3.0
+ User: :D
+ Bot: Eso tiene relación con el turismo por Barcelona?
+1005 - Total seconds: 25.0
+ User: Seguro que hay turistas contentos
+ Bot: ¿Tan seguro estás de lo que dices?
+1006 - Total seconds: 10.0
+ User: Si
+ Bot: Oh.
+1007 - Total seconds: 7.0
+ User: Yo lo vi
+ Bot: ¿Qué harías si en un viaje encontrás una nave extraterrestre?
+1008 - Total seconds: 34.0
+ User: Me sorprendería
+ Bot: ¿Te gusta jugar a los videojuegos? ¿Cómo sería jugar tu propia vida?
+1009 - Total seconds: 24.0
+ User: Si me gusta, no muy emocionante
+ Bot: Así que te gusta NO MUY EMOCIONANTE.
