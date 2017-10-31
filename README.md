@@ -12,3 +12,5 @@ Other folders that can be found in the package:
 - Python code for processing the conversation analysis
 
 Published in: Manuel Portela and Carlos Granell-Canut. 2017. A new friend in our smartphone?: observing interactions with chatbots in the search of emotional engagement. In Proceedings of the XVIII International Conference on Human Computer Interaction (Interacción '17). ACM, New York, NY, USA, Article 48, 7 pages. DOI: https://doi.org/10.1145/3123818.3123826
+
+[![DOI](https://zenodo.org/badge/105354479.svg)](https://zenodo.org/badge/latestdoi/105354479)
